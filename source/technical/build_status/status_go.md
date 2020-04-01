@@ -21,7 +21,7 @@ The project output can take several forms:
 
 ### 1. Requirements
 
-- Go version 1.12;
+- Go version 1.13;
 - Set `GOPATH`;
 - Docker (only if cross-compiling).
 

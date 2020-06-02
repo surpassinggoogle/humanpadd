@@ -703,7 +703,7 @@ site:
         title: 'متصفح الويب 3 اللامركزي'
         description: 'اكتشف النظام البيئي للتطبيقات اللامركزية، كل ذلك في مكان واحد.'
     invite:
-      title: 'انضم إلينا في القناة العامة <a href=''https://get.status.im/chat/public/%s'' target=''_blank''> # %s </a> وتعلم كيف يمكنك الفوز ببعض SNT'
+      title: 'انضم إلينا في القناة العامة <a href=''https://join.status.im/%s'' target=''_blank''> # %s </a> وتعلم كيف يمكنك الفوز ببعض SNT'
       prize:
         option-1: 'تسجيل اسم stateofus.eth ENS'
         option-2: 'شراء حزم ملصقات'

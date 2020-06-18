@@ -252,13 +252,22 @@ employees:
     customStatusPublicKey: '0x040d6d943dfbd7448c0f0dbad36f420df0095ddc0ad37d955e0df333a5c2bc7237119054a6059b9a59200d913326e165aecb06cef9ff99115c16a523e46582462c'
     customGitHubusername: 'AK87ST'
     photoUrl: 'https://statusim.bamboohr.com/employees/photos/?h=b04d6dd3e61e31b587be789aec7f6147'
+  - id: '178'
+    displayName: John Lea
+    firstName: John
+    lastName: Lea
+    jobTitle: Product Design Architecture
+    workEmail: john@status.im
+    customStatusPublicKey: '0x04e5c9c81f9a86956c0e7d6fab4f85bfa75c052e3eee9ba0d4f48a9fbbce4cd3d0035ff7393b68c4211db8eb2d57c1421abef96c8695ad0abf74644883006664d0'
+    customGitHubusername: johnlea-quiup
+    photoUrl: 'https://statusim.bamboohr.com/employees/photos/?h=94cdd317d86fd67e6ae150f5cfd76978'
   - id: '169'
     displayName: Pepper Lea
     firstName: Pepper
     lastName: Lea
     jobTitle: Recruiter
     workEmail: pepper@status.im
-    customStatusPublicKey: null
+    customStatusPublicKey: '0x042c564995ef3e2cd0a84f3a4c75da78f2a517f24208eb51c14ccd2413802d2ee1b733ca850e92fbf5fda5fc0331c7a4ba774df789e9d356f23f24a025f4afea9f'
     customGitHubusername: null
     photoUrl: 'https://statusim.bamboohr.com/employees/photos/?h=4d6fcc7c245ca327414ab4d282b509f2'
   - id: '168'

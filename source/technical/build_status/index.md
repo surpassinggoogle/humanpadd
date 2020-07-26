@@ -23,7 +23,7 @@ cd status-react
 
 ### 2. Install the dependencies
 
-We created a special script that leverages [Nix](https://nixos.org/nix) to install everything Status needs with minimal impact to the user's system. However, this script has only been tested on macOS (with XCode 11.1), Ubuntu Linux 18.04 and Manjaro. If it doesn't work for you on another Linux distribution, please install all dependencies manually (you can find the list below).
+We created a special script that leverages [Nix](https://nixos.org/nix) to install everything Status needs with minimal impact to the user's system. This script has only been tested on macOS (with XCode 11.1), Ubuntu Linux 18.04, Manjaro, and [Arch](https://wiki.archlinux.org/index.php/Nix). If it doesn't work for you on another Linux distribution, please install all dependencies manually (you can find the list below).
 In order to make things as practical as possible, the script will auto-accept the Android SDK license agreements.
 
 If you're on NixOS, please run the following to ensure you have the necessary prerequisites available:

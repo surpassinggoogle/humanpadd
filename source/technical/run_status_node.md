@@ -82,19 +82,22 @@ The configuration is provided as a JSON file. A basic config that will let you r
 `./config.json`
 ```json
 {
-    "AdvertiseAddr": "1.2.3.4",
+    "AdvertiseAddr": "<YOUR_PUBLIC_IP>",
     "ListenAddr": "0.0.0.0:30303",
     "HTTPEnabled": true,
     "HTTPHost": "127.0.0.1",
     "HTTPPort": 8545,
     "APIModules": "eth,net,web3,admin,mailserver",
     "RegisterTopics": ["whispermail"],
-    "WakuConfig.Enabled": true,
-    "WakuConfig.EnableMailServer": true,
-    "WakuConfig.DataDir": "/var/tmp/statusd/waku",
-    "WakuConfig.MailServerPassword", "status-offline-inbox"
+    "WakuConfig": {
+        "Enabled": true,
+        "EnableMailServer": true,
+        "DataDir": "/var/tmp/statusd/waku",
+        "MailServerPassword": "status-offline-inbox"
+    }
 }
 ```
+
 Which can be provided using the `-c` flag:
 ```bash
 $ ./build/bin/statusd -c ./config.json

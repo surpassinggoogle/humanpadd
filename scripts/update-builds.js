@@ -4,7 +4,7 @@ const log = require('fancy-log')
 const err = log.error
 const request = require('request')
 
-const url = 'https://status-im.ams3.digitaloceanspaces.com'
+const url = 'https://status-im-nightlies.ams3.digitaloceanspaces.com'
 
 const updateBuilds = (type, jsonFile) => {
   const nightliesFile = `source/_data/${type}.yml`

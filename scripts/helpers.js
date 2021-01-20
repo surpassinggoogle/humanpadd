@@ -280,14 +280,13 @@ hexo.extend.helper.register('language_selector', function() {
   
     languageSelector = `
       <div class="js-language-selector xl:pl-8 xl:relative">
-        <a href="#" class="js-language-selector-trigger transition-all duration-200 linear capitalize mt-8 xl:mt-0 text-left md:text-lg 2xl:text-xl font-special font-bold flex w-full xl:inline-flex items-center border border-black hover:bg-black hover:text-white py-4 px-5 rounded">
+        <a href="#" class="js-language-selector-trigger transition-all duration-200 linear capitalize mt-8 xl:mt-0 text-left md:text-lg 2xl:text-xl font-special font-bold flex w-full xl:inline-flex items-center border border-gray-100 hover:bg-black hover:text-white py-4 px-5 rounded">
           ${shortLang}
           <svg width="9" height="5" viewBox="0 0 9 5" class="ml-4 fill-current" fill="none" xmlns="http://www.w3.org/2000/svg">
             <path fill-rule="evenodd" clip-rule="evenodd" d="M4 3.001L0 0V2L4 5.001L8.001 2V0L4 3.001Z" />
           </svg>
-
         </a>
-        <ul class="js-language-selector-list w-11/12 xl:w-48 absolute bg-white shadow flex flex-col left-0 right-0 mb-4 m-auto top-0 xl:top-auto xl:ml-8 rounded text-left opacity-0 pointer-events-none invisible scale-95 transition-all duration-200 linear">
+        <ul class="js-language-selector-list overflow-y-auto w-11/12 xl:w-48 absolute bg-white shadow flex flex-col left-0 right-0 mb-4 m-auto top-0 xl:top-auto xl:ml-8 rounded text-left opacity-0 pointer-events-none invisible scale-95 transition-all duration-200 linear" style="height:540px;">
           ${list}
         </ul>
       </div>

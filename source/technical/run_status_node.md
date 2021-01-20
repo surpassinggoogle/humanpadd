@@ -69,8 +69,9 @@ For more details read their own `README` files: [docker](https://github.com/stat
 
 First you'll have to build a `statusd` binary. To do that simply do:
 ```
-git clone https://github.com/status-im/status-go
-cd status-go
+mkdir ~/go/src/github.com/status-im
+git clone https://github.com/status-im/status-go ~/go/src/github.com/status-im/status-go
+cd ~/go/src/github.com/status-im/status-go
 make statusgo
 ```
 For more information visit [this page](./build_status/status_go.html).

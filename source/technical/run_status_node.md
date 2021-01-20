@@ -123,8 +123,8 @@ whisper_envelopes_received_total 123
 
 The simplest way to check if the service is running is using the JSON RPC administration API:
 ```sh
- $ export DATA='{"jsonrpc":"2.0","method":"admin_peers", "params": [], "id":1}'
- $ curl -s -H 'content-type: application/json' -d $DATA localhost:8545 | jq -r '.result[].network.remoteAddress'
+ $ export DATA='{"jsonrpc":"2.0","method":"admin_peers","params":[],"id":1}'
+ $ curl -s -H 'content-type: application/json' -d "$DATA" localhost:8545 | jq -r '.result[].network.remoteAddress'
 34.68.132.118:30305
 134.209.136.123:30305
 178.128.141.249:443

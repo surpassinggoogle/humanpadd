@@ -90,6 +90,9 @@ module.exports = {
       green: {
         'base': '#7CDA00'
       },
+      blue: {
+        'base': '#3A56D4'
+      },
       moss: {
         'base': '#26A69A'
       },

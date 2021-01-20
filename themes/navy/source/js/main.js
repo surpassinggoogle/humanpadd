@@ -386,6 +386,30 @@ $(document).ready(function($) {
 
   }
 
+  $(window).scroll(function() {
+    const sticky = {
+      position: 'sticky',
+      width: '100%',
+      top: '0',
+      background: '#FFFFFF',
+      boxShadow: '0px 3px 40px rgba(0, 0, 0, 0.04)',
+    }
+
+    const relative = {
+      position: '',
+      width: '%',
+      top: '',
+      background: '',
+      boxShadow: '',
+    }
+
+    const header = $('#header');
+    let scroll = $(window).scrollTop();
+  
+    if (scroll) header.css(sticky);
+    else header.css(relative);
+  });
+
   // Partner campaign landing page start
   if (document.title === 'Status - Partner Campaign Template' || document.title === 'Status - criptomaniacos') {
 

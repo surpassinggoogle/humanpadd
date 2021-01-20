@@ -34,6 +34,14 @@ An alternative would be to use a [cloud service provider](https://en.wikipedia.o
 
 A single instance with 1GB of RAM and 1 vCPU should be enough to run Status Node reliably.
 
+In terms of software the minimum would include `make` and `jq`. If you want to build `status-go` you will also need `golang`, version `1.13` or higher.
+A nice-to-have is `qrencode` to display q QR Code with your `enode://` address.
+
+For Ubuntu `20.04` you can just do:
+```
+sudo apt install make jq golang qrencode
+```
+
 ### Ports
 
 * `30303` TCP/UDP - [DevP2P](https://github.com/ethereum/devp2p) wire protocol port. Must __ALWAYS__ be public.

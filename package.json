@@ -6,7 +6,7 @@
     "version": "4.2.1"
   },
   "scripts": {
-    "clean": "rm -rf public/*",
+    "clean": "rm -rf public/* db.json",
     "server": "gulp server",
     "build": "gulp build",
     "devel": "gulp devel",

@@ -2,14 +2,16 @@
 
 'use strict';
 
-var join = require('path').join;
-var _ = require('lodash');
-var cheerio = require('cheerio');
-var lunr = require('lunr');
+const join = require('path').join;
+const _ = require('lodash');
+const cheerio = require('cheerio');
+const lunr = require('lunr');
+const { Cache, full_url_for } = require('hexo-util');
+
 require('es6-promise').polyfill();
 require('isomorphic-fetch');
 
-var localizedPath = ['docs', 'api'];
+const localizedPath = ['docs', 'api'];
 
 function startsWith(str, start) {
   return str.substring(0, start.length) === start;
@@ -297,3 +299,32 @@ hexo.extend.helper.register('language_selector', function() {
   return languageSelector;
 
 });
+
+/* We are forced to make our own redirect becuase we want to count clicks. */
+const templateCache = new Cache();
+const redirectTemplate = (title, click_id, url) => templateCache.apply(url, () => {
+  return `<!DOCTYPE html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <title>${title}</title>
+    <link rel="canonical" href="${url}">
+    <meta http-equiv="refresh" content="0; url='${url}'">
+  </head>
+  <body>
+    <script>navigator.sendBeacon("https://clicks.status.im/clicks/${click_id}");</script>
+  </body>
+</html>`
+});
+
+/* We can't make use of hexo-generator-alias because we need the clicks.status.im POST. */
+hexo.extend.filter.register('after_post_render', (data) => {
+  let app_key = data.official_app_key;
+  /* If key is specified we can replace the HTML with a redirect one. */
+  if (app_key) {
+    let url = hexo.extend.helper.store.get_build_url.call(data, 'official', app_key);
+    data.content = redirectTemplate(data.title, data.click_id, url);
+    data.layout = '';
+  }
+  return data;
+})

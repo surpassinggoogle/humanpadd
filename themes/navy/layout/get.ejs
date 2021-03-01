@@ -4,17 +4,18 @@
     <section class="pt-16 lg:pt-0">
         <div class="max-w-screen-2xl mx-auto lg:px-12">
       <div class="grid lg:grid-cols-2">
-        <div class="relative p-24 pb-0 self-center text-center xs:p-8">
+        <div class="relative p-24 pb-0 self-center text-center xs:p-6">
           <span class="bg-white w-screen absolute -z-1 right-0 h-full"></span>
           <div class="">
             <p><%- __('site.get.download') %></p>
             <h1 class="leading-tight font-display text-6xl font-medium xl:text-7xl 2xl:text-8xl"><%- __('site.get.mobile.title') %></h1>
           </div>
           <p class="text-2xl text-center mt-2 lg:px-20"><%- __('site.get.mobile.description') %></p>
-          <div class="flex items-center justify-center -ml-12 mt-12 mb-12">
-            <a href="<%- get_build_url('official', 'APPSTORE') %>" id="official:ios" class="ml-12 app-download"><%- image_tag("/img/app-store.svg") %></a>
-            <a href="<%- get_build_url('official', 'PLAYSTORE') %>" id="official:apk" class="ml-12 app-download"><%- image_tag("/img/google-play.svg") %></a>
-            <a href="<%- get_build_url('official', 'DIRECT_APK') %>" id="official:apk" class="ml-12 app-download"><%- image_tag("/img/apk.svg") %></a>
+          <div class="flex items-center justify-center mt-12 mb-12">
+            <a href="<%- get_build_url('official', 'APPSTORE') %>" id="official:ios" class="app-download"><%- image_tag("/img/app-store.svg") %></a>
+            <a href="<%- get_build_url('official', 'PLAYSTORE') %>" id="official:apk" class="ml-8 xs:ml-4 app-download"><%- image_tag("/img/google-play.svg") %></a>
+            <a href="<%- get_build_url('official', 'DIRECT_APK') %>" id="official:apk" class="ml-8 xs:ml-4 app-download"><%- image_tag("/img/apk.svg") %></a>
+            <a href="<%- get_build_url('official', 'F_DROID') %>" id="official:fdroid" class="ml-8 xs:ml-4 app-download"><%- image_tag("/img/fdroid.svg") %></a>
           </div>
           <div class="mt-24 -mb-64">
             <div class="w-2/3 mx-auto">
@@ -22,7 +23,7 @@
             </div>
           </div>
         </div>
-        <div class="bg-primary-base relative md:mt-0 p-24 pb-0 text-white xs:p-8">
+        <div class="bg-primary-base relative md:mt-0 p-24 pb-0 text-white xs:p-6">
           <span class="bg-primary-base w-screen absolute -z-1 left-0 h-full top-0"></span>
           <div class="md:mt-0 mx-auto flex flex-col justify-start items-center text-center">
               <div class="">

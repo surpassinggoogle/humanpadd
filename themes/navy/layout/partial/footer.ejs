@@ -4,9 +4,10 @@
             <h3 class="font-display font-normal text-4xl xl:text-5xl 2xl:text-6xl"><%- __('site.footer.title') %></h3>
             <div class="lg:flex lg:items-center">
                 <div class="flex items-center mt-8 lg:mt-0">
-                    <a href="<%- get_build_url('official', 'APPSTORE') %>" id="official:ios" class="mr-16 app-download"><%- image_tag("/img/app-store.svg") %></a>
-                    <a href="<%- get_build_url('official', 'PLAYSTORE') %>" id="official:apk" class="mr-16 app-download"><%- image_tag("/img/google-play.svg") %></a>
-                    <a href="<%- get_build_url('official', 'DIRECT_APK') %>" id="official:apk" class="mr-16 app-download"><%- image_tag("/img/apk.svg") %></a>
+                    <a style="border:1px solid white;border-radius: 4px;" href="<%- get_build_url('official', 'APPSTORE') %>" id="official:ios" class="mr-6 app-download"><%- image_tag("/img/app-store.svg") %></a>
+                    <a style="border:1px solid white;border-radius: 4px;" href="<%- get_build_url('official', 'PLAYSTORE') %>" id="official:apk" class="mr-6 app-download"><%- image_tag("/img/google-play.svg") %></a>
+                    <a style="border:1px solid white;border-radius: 4px;" href="<%- get_build_url('official', 'DIRECT_APK') %>" id="official:apk" class="mr-6 app-download"><%- image_tag("/img/apk.svg") %></a>
+                    <a style="border:1px solid white;border-radius: 4px;" href="<%- get_build_url('official', 'F_DROID') %>" id="official:fdroid" class="mr-8 app-download"><%- image_tag("/img/fdroid.svg") %></a>
                 </div>
                 <a href="<%- show_lang() %>/get-involved/" class="mt-8 py-3 px-4 border flex items-center justify-between lg:mt-0 border-white hover:bg-white hover:text-black rounded font-special font-medium">
                   <%- __('site.link.get-involved') %>

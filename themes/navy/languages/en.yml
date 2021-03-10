@@ -41,8 +41,8 @@ site:
       link: "Learn more about The Status Network"
     account-creation:
       subtitle: "Retain Your Privacy"
-      title: "Pseudo-Anonymous Account Creation"
-      description: "You will never be asked for a phone number, email address, or bank account when creating a Status account. Stay private and selectively reveal yourself to the world with Status."
+      title: "Pseudo-Anonymous Account Generation"
+      description: "You will never be asked for a phone number, email address, or bank account when generating a Status account. Stay private and selectively reveal yourself to the world with Status."
   about:
     intro:
       title: "The Mission"
@@ -445,7 +445,7 @@ site:
         description: "PFS is a feature of specific key-agreement protocols which provide assurances that your session keys will not be compromised even if the private keys of the participants are compromised. Specifically, past messages cannot be decrypted by a third-party who manages to get a hold of a private key. It builds on the X3DH and Double Ratchet specifications from Open Whisper Systems, with some adaptations to operate in a decentralized environment. Perfect Forward Secrecy is an added layer of security for all of your 1:1 private chats."
         link: "Learn more about PFS"
       content-5:
-        title: "Pseudo-Anonymous Account Creation"
+        title: "Pseudo-Anonymous Account Generation"
         description: "When you create a new account on Status, you will never be asked for third party verification such as an email or phone number. This means you can sign up for and create a Status account and remain pseudo-anonymous. When you create an account, it is simply you and your keys. This also means that two factor authentication and password recovery are not features within Status - so be sure to remember your password and mnemonic phrase and store them offline somewhere extremely safe."
       content-6: 
         title: "How are my keys stored?"
@@ -623,14 +623,14 @@ site:
       description: "Add a layer of security to your account and funds with Keycard - the contactless hardware wallet."
   account-creation:
     intro:
-      title: "Pseudo-Anonymous Account Creation"
+      title: "Pseudo-Anonymous Account Generation"
     usernames:
       title: "Three-Word Default Usernames and Privacy"
-      description: "When creating an account, a randomization process selects three words – Adjective, adjective, animal. This becomes your default username in Status and results in true pseudo-anonymity."
+      description: "When generating an account, a randomization process selects three words – Adjective, adjective, animal. This becomes your default username in Status and results in true pseudo-anonymity."
       button: "Learn More about Status Usernames"
     key:
       title: "Secure Key Generation"
-      description: "During the account creation process, a chat and wallet keypair will be generated via a BIP43 derived path from a BIP39 mnemonic seed phrase. Only you have access to the private keys so keep them safe."
+      description: "During the account generation process, a chat and wallet keypair will be generated via a BIP43 derived path from a BIP39 mnemonic seed phrase. Only you have access to the private keys so keep them safe."
       button: "Learn More about Key Generation"
     status:
       title: "State of Us Usernames with ENS"
@@ -744,8 +744,8 @@ site:
         question: "What is my wallet address?"
         answer: "Your wallet address has 42 characters and starts with 0x. It's an on-chain identity for your Ethereum account. If you have multiple accounts, you have multiple addresses. You can find your wallet address by going to Wallet > Account card > Receive or by tapping on the share icon on the Account card. <br><br><i>Note that although it looks similar, your wallet address is not the same as your chat key. You can find your chat key in Profile > Share icon.</i>"
       q4:
-        question: "How many accounts can I create in Status?"
-        answer: "You can create as many accounts as you want. Go to Wallet > Add account. Accounts added this way can be recovered with your seed phrase, along with your master key pair, if you lose access to your account. <br><br>You can also create more master key pairs by going to the start screen Your keys > Generate keys or Access existing keys if you want to import keys from another wallet or or create a completely new keychain of identities."
+        question: "How many accounts can I generate in Status?"
+        answer: "You can generate as many accounts as you want. Go to Wallet > Add account. Accounts added this way can be recovered with your seed phrase, along with your master key pair, if you lose access to your account. <br><br>You can also create more master key pairs by going to the start screen Your keys > Generate keys or Access existing keys if you want to import keys from another wallet or or create a completely new keychain of identities."
     profile-and-settings:
       title: "Profile and Settings"
       q1:
@@ -1021,7 +1021,7 @@ site:
         link-1: "See All Features"
         link-2: "Keycard"
         link-3: "Private Messenger"
-        link-4: "Account Creation"
+        link-4: "Account Generation"
         link-5: "Secure Crypto Wallet"
         link-6: "Web3 Browser"
         description: "Private Messenger, Crypto Wallet, <br>Web3 Browser, and more"

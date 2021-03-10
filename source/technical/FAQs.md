@@ -79,9 +79,9 @@ You can compare accounts in Status to bank accounts. Each account is based on it
 Your wallet address has 42 characters and starts with 0x. It’s an on-chain identity for your Ethereum account. If you have multiple accounts, you have multiple addresses. You can find your wallet address by going to `Wallet` > `Account card` > `Receive` or by tapping on the `Share icon` on the Account card.
 Note that although it looks similar, your wallet address is not the same as your chat key. You can find your chat key in `Profile` > `Share icon`.
 
-### How many accounts can I create in Status?
-You can create as many accounts as you want. Go to `Wallet` > `Add account` > `Generate keys`. Accounts added this way can be recovered with your seed phrase, along with your master key pair, if you lose access to your account.
-You can also create more master key pairs by going to the start screen `Your keys` > `Generate keys` or `Access existing keys` if you want to import keys from another wallet or create a completely new keychain of identities.
+### How many accounts can I generate in Status?
+You can generate as many accounts as you want. Go to `Wallet` > `Add account` > `Generate keys`. Accounts added this way can be recovered with your seed phrase, along with your master key pair, if you lose access to your account.
+You can also generate more master key pairs by going to the start screen `Your keys` > `Generate keys` or `Access existing keys` if you want to import keys from another wallet or generate a completely new keychain of identities.
 
 ## Profile and Settings
 ### What is an ENS username?

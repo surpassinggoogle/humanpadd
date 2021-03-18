@@ -525,7 +525,7 @@ site:
   keycard-integration:
     intro:
       title: "Add Hardware Security to Your Status Experience"
-      description: "Protect your assets and accounts with Keycard - the cold storage hardware wallet with a contactless, convenient experience. Android only."
+      description: "Protect your assets and accounts with Keycard - the cold storage hardware wallet with a contactless, convenient experience."
       button: "Get a Keycard 29€"
     about:
       title: "What is Keycard?"

@@ -502,7 +502,7 @@ $(document).ready(function($) {
     $('.js-editor-content h1, .js-editor-content h2, .js-editor-content h3').each(function (index, element) {
       var id = $(this).attr('id');
       var title = $(this).text();
-      if (title === 'Open Positions') {
+      if (title === 'Jobs at Status') {
         $('.js-right-sub-navigation').css("display", "none");
         return false;
       }

@@ -1,10 +1,10 @@
 ---
-id: open_positions
-title: Open Positions
+id: jobs
+title: Jobs at Status
 description: Check out our open positions.
 ---
 
-# Open Positions
+# Jobs at Status
 
 Please note that all of our positions are remote - we welcome contributors from all over the globe. Want to chat to our People Ops team? Drop by the [#hiring](https://discord.gg/ncDjzk2) channel on our community Discord, or check out the latest project discussions over at [discuss.status.im](https://discuss.status.im) :) 
  

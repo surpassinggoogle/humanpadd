@@ -270,6 +270,15 @@ employees:
     customStatusPublicKey: '0x04c7b2bf31398205b9e2693ee33c12eb6d86384048bf576707eec6875179606a01d7e0de6b3a819f464ef50d179de0abee0eb98c4e3965ac8232b6dd09dc0d7792'
     customGitHubusername: zah
     photoUrl: 'https://statusim.bamboohr.com/employees/photos/?h=9133c82d9865ed6fad58a4dcd6d8a020'
+  - id: '124'
+    displayName: Ned Karlovich
+    firstName: Ned
+    lastName: Karlovich
+    jobTitle: Design Lead Status Network
+    workEmail: ned@status.im
+    customStatusPublicKey: ned.stateofus.eth
+    customGitHubusername: NKarlovich
+    photoUrl: 'https://statusim.bamboohr.com/employees/photos/?h=c909243041205a48f42c9acd0f37b8d9'
   - id: '183'
     displayName: Diana Khasianova
     firstName: Diana
@@ -540,6 +549,15 @@ employees:
     customStatusPublicKey: '0x04a83abc57dae5a113c028963825c9d120c203c073d1dab607ab0f44d10bcde69d0d87a8cc98ac3d53264ef4035c3802f4a8f4c4b66950220cb376a54b3396802a'
     customGitHubusername: markspanbroek
     photoUrl: 'https://statusim.bamboohr.com/employees/photos/?h=d6a905470733355d8893f8a2bb7a63a6'
+  - id: '203'
+    displayName: Brian Sztamfater
+    firstName: Brian
+    lastName: Sztamfater
+    jobTitle: Core UI Mobile Engineer
+    workEmail: brian@status.im
+    customStatusPublicKey: null
+    customGitHubusername: null
+    photoUrl: 'https://statusim.bamboohr.com/employees/photos/?h=ce7d7d574c735b15d6a380bc19a5310d'
   - id: '192'
     displayName: Sanaz Taheri-Boshrooyeh
     firstName: Sanaz

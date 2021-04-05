@@ -688,12 +688,12 @@ site:
     intro:
       title: 为您的Status增加硬件安全性
       description: 使用Keycard（非接触式便捷体验的冷存储硬件钱包）保护您的资产和帐户。仅适用于Android。
-      button: '购买Keycard 29€'
+      button: '购买Keycard €24.9'
     about:
       title: 什么是Keycard？
       description: 'Keycard是一种冷存储硬件钱包，旨在使您的私钥完全离线，以提高资金安全性。 <br> <br>内置NFC技术和类似信用卡的设计，可提供无缝的非接触式体验。Keycard构建了一套开源的API，用于与第三方加密钱包、DApp和硬件集成。'
       button-1: 了解更多
-      button-2: '购买Keycard 29€'
+      button-2: '购买Keycard €24.9'
     secure:
       title: 使用Keycard保护Status
       security:
@@ -715,7 +715,7 @@ site:
       box-3:
         title: 经济实惠的安全性
         description: 只需29欧元，Keycard即可提供强大的硬件安全保证，而无需支付昂贵的价格。
-        link: '购买Keycard 29€'
+        link: '购买Keycard €24.9'
     faq:
       title: 有问题吗？
       button: 了解更多

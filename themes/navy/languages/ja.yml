@@ -688,12 +688,12 @@ site:
     intro:
       title: Statusにハードウェアセキュリティを
       description: Keycardは便利に使える非接触のハードウェアウォレットです。あなたの資産とアカウントをコールドストレージとして守ります。Androidのみ。
-      button: 'Keycardを購入 29€'
+      button: 'Keycardを購入 €24.9'
     about:
       title: Keycardとは？
       description: Keycardは、秘密鍵を完全にオフラインで保管し、資産の安全性を高めるために設計されたコールドストレージのハードウェアウォレットです。<br><br>NFCテクノロジーとクレジットカードのようなデザインを採用し、シームレスで非接触の体験を提供します。サードパーティの暗号化ウォレット、DApps、ハードウェアと統合するためのオープンAPIを搭載しています。
       button-1: もっと詳しく
-      button-2: 'Keycardを購入 29€'
+      button-2: 'Keycardを購入 €24.9'
     secure:
       title: KeycardでStatusをセキュアに
       security:
@@ -715,7 +715,7 @@ site:
       box-3:
         title: お手頃な価格
         description: Keycardはわずか29ユーロで、高価な価格設定をすることなく、強力なハードウェアセキュリティを保証します。
-        link: 'Keycardを購入 29€'
+        link: 'Keycardを購入 €24.9'
     faq:
       title: 質問はありますか？
       button: もっと詳しく

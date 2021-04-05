@@ -688,12 +688,12 @@ site:
     intro:
       title: 'Hardware-Sicherheit zu Ihrer Status-Erfahrung hinzufügen'
       description: 'Schützen Sie Ihr Vermögen und Ihre Konten mit Keycard - der kontaktlosen, bequemen Brieftasche für Hardware-Kühlspeicher. Nur Android.'
-      button: 'Holen Sie sich eine Keycard 29 €'
+      button: 'Holen Sie sich eine Keycard €24.9'
     about:
       title: 'Was ist eine Keycard?'
       description: 'Die Keycard ist eine Hardware-Geldbörse, die so konzipiert ist, dass Ihre privaten Schlüssel für eine größere Sicherheit Ihres Guthabens vollständig offline bleiben. <br><br>Hergestellt mit NFC-Technologie und einem kreditkartenähnlichen Design für ein nahtloses, kontaktloses Erlebnis. Mit einer offenen API für die Integration mit Krypto-Geldbörsen, DApps und Hardware von Drittanbietern.'
       button-1: 'Mehr erfahren'
-      button-2: 'Holen Sie sich eine Keycard 29 €'
+      button-2: 'Holen Sie sich eine Keycard €24.9'
     secure:
       title: 'Status mit Keycard sichern'
       security:
@@ -714,8 +714,8 @@ site:
         description: 'Mit kontaktloser NFC-Technologie und einem schlanken, vertrauten Design bietet die Keycard den Komfort einer Kreditkarte mit der Sicherheit einer Hardware-Wallet.'
       box-3:
         title: 'Erschwingliche Sicherheit'
-        description: 'Für nur 29€ bietet die Keycard starke Hardware-Sicherheitsgarantien, ohne das teure Preisschild.'
-        link: 'Holen Sie sich eine Keycard 29 €'
+        description: 'Für nur €24.9 bietet die Keycard starke Hardware-Sicherheitsgarantien, ohne das teure Preisschild.'
+        link: 'Holen Sie sich eine Keycard €24.9'
     faq:
       title: 'Hast du Fragen?'
       button: 'Mehr erfahren'
@@ -920,7 +920,7 @@ site:
         answer: 'Keycard ist derzeit nur für Android verfügbar und kann mit Status verwendet werden. Das Keycard-Team arbeitet derzeit an der iOS-Integration.'
       q3:
         question: 'Wie viel kostet die Keycard?'
-        answer: 'Die Keycard kostet 29€ im Einzelhandel und kann hier erworben werden.'
+        answer: 'Die Keycard kostet €24.9 im Einzelhandel und kann hier erworben werden.'
       q4:
         question: 'Ist die Keycard in andere Brieftaschen integriert?'
         answer: 'Status ist die erste Produktionsintegration mit Keycard. Entwickler können Keycard jedoch mit der hier verfügbaren Open Source Keycard API in ihre Produkte integrieren. '

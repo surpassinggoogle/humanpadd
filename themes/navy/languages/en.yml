@@ -526,12 +526,12 @@ site:
     intro:
       title: "Add Hardware Security to Your Status Experience"
       description: "Protect your assets and accounts with Keycard - the cold storage hardware wallet with a contactless, convenient experience."
-      button: "Get a Keycard 29€"
+      button: "Get a Keycard €24.9"
     about:
       title: "What is Keycard?"
       description: "Keycard is a cold storage hardware wallet designed to keep your private keys entirely offline for greater security over your funds. <br><br>Built with NFC technology and a credit card-like design for a seamless, contactless experience. Built with an open API for integration with third party crypto wallets, DApps, and hardware."
       button-1: "Learn More"
-      button-2: "Get a Keycard 29€"
+      button-2: "Get a Keycard €24.9"
     secure:
       title: "Securing Status with Keycard"
       security:
@@ -552,8 +552,8 @@ site:
         description: "Built with contactless NFC technology and a sleek, familiar design, Keycard provides the convenience of a credit card with the security of a hardware wallet."
       box-3:
         title: "Affordable Security"
-        description: "At only 29€, Keycard provides strong hardware security guarantees, without the expensive price tag."
-        link: "Get a Keycard 29€"
+        description: "At only €24.9, Keycard provides strong hardware security guarantees, without the expensive price tag."
+        link: "Get a Keycard €24.9"
     faq:
       title: "Do you have questions?"
       button: "Learn More"
@@ -635,7 +635,7 @@ site:
     status:
       title: "State of Us Usernames with ENS"
       description: "ENS stands for Ethereum Name Service, and allows Ethereum addresses to be replaced by custom text-based names. Anyone can register a stateofus.eth username by staking 10 SNT from within the Profile Tab. <br><br>Its important to note, that when you register an ENS name with a given wallet address, that address is now associated with the username, reducing the privacy of that account."
-      button: "Register an Status of Us Username"
+      button: "Register a State of Us Username"
     keycard:
       title: "Protect your Account with Keycard"
       description: "Add offline, hardware enforced two-factor-authentication to your Status account with Keycard. Require the tap of a card + pin entry for greater security over your account."
@@ -855,7 +855,7 @@ site:
         answer: "Status wallet allows you to send ETH and ERC20 (e.g. OMG, BNB, BAT or DAI) to wallets that accept these currencies. To send assets go to Wallet and tap on the send icon [↗] at the bottom of the screen. Alternatively go to Wallet > Account card > Send <br><br>Then Enter Amount > Select token > Select from account > Choose recipient <br><br>You can recognize wallets that accept ETH and Ethereum based tokens by the address format. The address will start with 0x… Status wallet checks for invalid addresses. Best practice is to always triple check the address manually before signing a transaction. "
       q9:
         question: "I recovered my account and now I only see one wallet, though I created more. Did I lose my funds?"
-        answer: "No, they’re not lost. If you generated additional wallets from within Status, and you later recover your account, you will need to manually recover the additional wallets by following the same steps you took to create them. From the wallet, you will Add account > Add an account. Rather than generating a brand new wallet, Status will recuperate each additional wallet you created in order, and your assets will be recovered with them. <br><br>In the future, we’ll ensure all of your Status wallets are recovered automatically."
+        answer: "No, they’re not lost. If you generated additional wallets from within Status, and you later recover your account, you will need to manually recover the additional wallets by following the same steps you took to create them. You can add an account from the Wallet > Add an account. Rather than generating a brand new wallet, Status will recuperate each additional wallet you created in order, and your assets will be recovered with them. <br><br>In the future, we’ll ensure all of your Status wallets are recovered automatically."
       q10:
         question: "Does the wallet support BitCoin?"
         answer: "No, currently Status does not support the Bitcoin blockchain, and only Ethereum and assets built on top are available within the application. BitCoin is a separate blockchain and uses a separate network of validators for its transactions, which is why currently it is impossible to make transactions between the two networks."
@@ -869,7 +869,7 @@ site:
         answer: "Keycard is currently only available on Android to use with Status. The Keycard team is currently working on iOS integration."
       q3:
         question: "How much does Keycard cost?"
-        answer: "Keycard costs 29€ Retail and can be purchased here."
+        answer: "Keycard costs €24.9 Retail and can be purchased here."
       q4:
         question: "Is Keycard integrated with any other wallets?"
         answer: "Status is the first production integration with Keycard. However, developers can integrate Keycard with their products with the Open Source Keycard API available here. "

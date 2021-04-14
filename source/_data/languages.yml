@@ -46,3 +46,6 @@ ar:
 el:
   short: el
   long: ελληνικά
+pl:
+  short: pl
+  long: Polski

@@ -20,7 +20,7 @@ site:
       subtitle: 'Preservare la privacy'
       title: 'Messaggi veramente privati'
       description: 'Status utilizza il protocollo peer-to-peer Whisper e la crittografia end-to-end per proteggere la comunicazione da interferenze di terzi. Solo tu puoi visualizzare i tuoi messaggi.'
-      link: 'Esplora il Messenger di Status'
+      link: 'Esplora tutte le funzionalità'
     wallet:
       subtitle: 'Pagamenti senza confini basate su criptovalute'
       title: 'Portafoglio sicuro criptovalute'
@@ -62,7 +62,7 @@ site:
         learn-more: 'Ulteriori informazioni su Waku'
       feature-3:
         title: 'Perfetta segretezza avanzata e crittografia <br>E2E'
-        description: 'Status utilizza l''algoritmo "Double Ratchet" in aggiunta a Whisper e la crittografia end-to-end per il massimo livello di sicurezza e privacy.'
+        description: 'Status utilizza l''algoritmo ''Double Ratchet'' su layer Waku e la crittografia end-to-end per il più alto grado di sicurezza e privacy.'
     wallet:
       title: 'Portafoglio <br>Ethereum integrato'
       feature-1:
@@ -303,7 +303,7 @@ site:
         description: 'PFS è una funzionalità di specifici protocolli di accordo sulle chiavi che fornisce garanzie che le chiavi di sessione non verranno compromesse anche se le chiavi private dei partecipanti sono compromesse. In particolare, i messaggi precedenti non possono essere decrittografati da terzi che riescano a ottenere una chiave privata. Si basa sulle specifiche X3DH e Double Ratchet di Open Whisper Systems, con alcuni adattamenti per operare in un ambiente decentralizzato. L''uso del Perfect Forward Secrecy è un ulteriore livello di sicurezza per garantire che tutte le tue chat (tra te è un altro utente) siano private.'
         link: 'Ulteriori informazioni su PFS'
       content-5:
-        title: 'Creazione di un account senza server'
+        title: 'Generazione di account pseudo-anonimo'
         description: 'Quando crei un nuovo account su Status, non ti verrà mai richiesta la verifica di identità come un indirizzo email o un numero di telefono. Ciò significa che è possibile iscriversi e creare un account Status in modo completamente anonimo. Quando crei un account, sei semplicemente tu e le tue chiavi. Ciò significa anche che l''autenticazione a due fattori e il recupero della password non sono caratteristiche all''interno di Status, quindi assicurati di ricordare la tua password e la frase mnemonica e di memorizzarli offline in un luogo estremamente sicuro.'
       content-6:
         title: 'Come vengono memorizzate le chiavi?'
@@ -379,7 +379,7 @@ site:
         link-2: Keycard
         description: 'Messaggistica privata, Portafoglio Crypto valuta, <br>Browser Web3 e altro ancora</br>'
         link-3: 'Messenger privato'
-        link-4: 'Colore dell''account'
+        link-4: 'Generazione dell''account'
         link-5: 'Portafoglio criptovalute sicuro'
         link-6: 'Browser Web3'
   link:
@@ -507,7 +507,7 @@ site:
       dapp-curation:
         title: 'DApp Curation'
         status: Live
-        description: 'Dap.ps fornisce agli utenti della rete un modo per scoprire DApps, come curate da altri membri della comunità. Fornirà inoltre un modo per navigare per categoria e grazie a valutazioni, consente agli utenti di trovare esattamente ciò che stanno cercando. Sarà richiesto di usare token SNT per curare e segnalare nuove DApps nella directory. Un deposito di token SNT sarà richiesto dagli sviluppatori DApp che desiderano ottenere una maggiore attenzione al proprio DApp.'
+        description: 'Dap.ps è una dapp distribuita dalla community di terze parti che offre ai membri della rete un modo per scoprire le DApp, come curato da altri membri della community. Consente agli utenti di trovare ciò che stanno cercando navigando per categoria e valutazione. E'' necessario disporre di token SNT per la cura e la segnalazione nella directory. Un deposito di SNT è richiesto dagli sviluppatori DApp che desiderano ottenere una maggiore attenzione alla loro DApp.'
         link: 'Sfoglia le DApp'
       voting-dapp:
         title: 'DApp di voto'
@@ -539,6 +539,7 @@ site:
     desktop:
       title: Desktop
       description: 'Prova la versione Beta dell''applicazione Desktop per una comunicazione privata e sicura dove lavori.'
+      instructions: '* Leggi le istruzioni di installazione <u> qui </u> .'
     download: 'Scarica Status per'
   docs:
     stripe:
@@ -758,7 +759,7 @@ site:
         answer: 'La maggior parte delle app di messaggistica offre la crittografia end-to-end. Questa protezione standard indica che la Società che fornisce il servizio non è in grado di leggere il contenuto dei messaggi. Ma il flusso di informazioni sulla loro rete è pubblico e consente di conoscere chi sta parlando con chi e da dove. Queste app tradizionalmente usate richiedono anche informazioni identificative per iscriversi, come un numero di telefono, e di solito questo è collegato a una serie di altri dati personali su di te. Status non richiede alcuna informazione personale per iniziare. Grazie alla sua infrastruttura peer-to-peer, Status non è a conoscenza di chi sta contattando chi, né del contenuto dei messaggi. <a href=''https://github.com/status-im/specs'' target=''_blank''> Qui </a> puoi trovare le specifiche del funzionamento di questa tecnologia.'
       q6:
         question: 'Cosa succede se un Governo tenta di bloccare o censurare Status?'
-        answer: 'Status Messenger non utilizza un server centrale da e verso il quale è possibile bloccare la comunicazione. Invece Status utilizza una rete distribuita di server di posta. Ciò garantisce la resilienza della rete. Se un server di posta viene spento, puoi connetterti a un altro server di posta o decidere di <a href=''https://discuss.status.im/t/get-your-node-running/1488/4?u=hester'' target=''_blank''> crearne uno tuo </a>. Tuttavia, i server di Status e di posta nella rete fanno ancora affidamento alla disponibilità di una connessione Internet. Se Internet viene chiuso tramite dai provider di telecomunicazioni non sarà possibile utilizzare Status.'
+        answer: 'Status messenger non usa un server centrale da e verso il quale la comunicazione può essere bloccata. Invece Status usa una rete distribuita di "nodi Status". Questo assicura la resilienza della rete. Se un nodo di Status è spento è possibile connettersi ad un altro nodo o iniziare ad <a href=''https://discuss.status.im/t/get-your-node-running/1488/4?u=hester'' target=''_blank''>eseguire il proprio</a>. Tuttavia, Status e i nodi della rete dipendono ancora dall''avere una connessione a Internet. Se Internet è spento attraverso i provider di telecomunicazioni non sarai in grado di usare Status.'
       q7:
         question: 'Come si connette Status alla blockchain?'
         answer: 'Status dispone nativamente di un supporto al protocollo di ethereum (nello specifico usa go-ethereum sviluppato in linguaggio GO), che si collega alla rete Ethereum. Tutto ciò che devi fare per connetterti a Ethereum è eseguire l''app Status! Considera che solo il portafoglio e il browser presenti nell''app Status interagiscono con la blockchain di Ethereum. I messaggi che scambi nelle chat non sono memorizzati sulla blockchain.'
@@ -828,7 +829,7 @@ site:
         answer: 'Questo può essere un serio problema. Per prima cosa controlla se non puoi eseguire il backup della frase di recupero in Profilo > Privacy e sicurezza. Se l''elemento "Esegui il backup della frase di recupero" è disattivato, non è più possibile accedere alla frase di recupero. <br> <br> L''opzione migliore ora è quella di generare una nuova chiave usando un nuovo seed e trasferire i tuoi asset su questo nuovo account. In Status vai a Esci > Genera una nuova chiave. Segui i passaggi sullo schermo per memorizzare e proteggere questa nuova chiave. Al termine, vai su Profilo > Privacy e sicurezza > Esegui il backup della frase di recupero. Memorizza la frase in modo sicuro offline. Quindi vai su Portafoglio > Icona Condividi o Ricevi > Tocca l''indirizzo per copiare. Disconnettiti. <br> <br> Sblocca le chiavi per le quali hai perso la frase di recupero utilizzando la password. Invia tutte le risorse dagli account nel tuo portafoglio al tuo nuovo indirizzo.'
       q8:
         question: 'Come cancello il mio profilo?'
-        answer: 'Il tuo profilo esiste solo localmente. Tutti i messaggi inviati rimarranno sui server di posta per 30 giorni. Successivamente, il messaggio cessa di esistere. Le transazioni effettuate con l''utilizzo di un account nel tuo portafoglio rimarranno sulla blockchain.'
+        answer: 'Il tuo profilo esiste solo localmente. Tutti i messaggi che hai inviato rimarranno sui nodi Status per 30 giorni. Dopo di che, il messaggio cessa di esistere. Le transazioni che hai fatto con un conto nel tuo portafoglio rimarranno sulla blockchain.'
       q9:
         question: 'Se qualcuno accede al mio telefono, quale parte del mio profilo è criptata e quale no?'
         answer: 'Le tue chiavi private sono crittografate in ogni momento e possono essere utilizzate solo da te per firmare transazioni in combinazione con la tua password o passcode. Le informazioni che non sono crittografate includono il tuo nome iniziale di 3 parole, quando hai usato l''ultima volta lo Status (cioè quando hai sbloccato le tue chiavi), la tua immagine del profilo e l''identificatore della tua Keycard se ne hai una.'
@@ -839,16 +840,16 @@ site:
       title: 'Status Messenger'
       q1:
         question: 'I miei messaggi sono davvero privati?'
-        answer: 'Sì. Status attualmente utilizza Whisper, il protocollo di messaggistica dello stack Ethereum, che fornisce messaggistica peer-to-peer senza fare affidamento su server centralizzati, data center o provider di servizi. <br> <br> Ogni messaggio è crittografato end-to-end e trasmesso a ogni singolo peer della rete per un tempo prestabilito. Ciò rende non solo impossibile per altri utenti leggere il contenuto dei messaggi, ma anche vedere chi invia i messaggi a chi. Per i messaggi privati 1: 1, solo il destinatario previsto di un messaggio è in grado di decrittografare il contenuto. Per le chat pubbliche, chiunque conosca il nome della chat può decrittografare il contenuto. <br> <br> Un''ulteriore protezione è l''uso di una nuova chiave di crittografia per ogni messaggio, dopo lo scambio iniziale di chiavi tra utenti (Perfect Forward Secrecy). Se la chiave del messaggio è compromessa, viene compromesso solo il messaggio per quella chiave specifica. Non è possibile accedere ai messaggi precedenti. <br> <br> La privacy fornita da Whisper ha un costo elevato in termini di utilizzo dati. Lo sviluppo di un''alternativa è in corso. Puoi seguire i progressi <a href=''https://forum.vac.dev/t/waku-project-and-progress/24'' target=''_blank''> qui </a> .'
+        answer: 'Sì. Status usa Waku, un protocollo peer-to-peer per la comunicazione privata, sicura e resistente alla censura, costruito dal <a href=''https://vac.dev'' target=''_blank''>Vac Team</a>. Waku fornisce una messaggistica resiliente con zero dipendenza da server centralizzati, centri dati o fornitori di servizi. <br><br>Ogni messaggio è crittografato end-to-end e trasmesso ad ogni singolo peer della rete. Questo rende impossibile non solo ad un pubblico non voluto leggere il contenuto dei messaggi, ma anche vedere chi invia messaggi a chi. Le informazioni sul mittente sono sempre criptate, rendendo impossibile per i nodi di stato raccogliere qualsiasi metadato di comunicazione. Per i messaggi privati 1:1, solo il destinatario di un messaggio è in grado di decifrare il contenuto. Per le chat pubbliche, chiunque conosca il nome della chat può decifrare il contenuto. <br><br>Un''ulteriore salvaguardia è l''uso di una nuova chiave di cifratura con ogni messaggio dopo lo scambio iniziale di chiavi tra gli utenti (perfetta segretezza in avanti). Se la chiave del tuo messaggio è compromessa, solo il messaggio per quella particolare chiave è compromesso, e non per i messaggi precedenti.'
       q2:
         question: 'Dove vengono archiviati i miei messaggi? Sono sulla blockchain?'
-        answer: 'I messaggi non sono memorizzati sulla blockchain e non costano nulla per l''invio. I messaggi vengono archiviati su un server di posta per 30 giorni e sul telefono dopo averli ricevuti aprendo Status e connettendosi alla rete. Per raggiungerti, i messaggi passano su devp2p, il livello di trasporto di Whisper, ma non vengono trasportati attraverso la Macchina virtuale Ethereum.'
+        answer: 'I messaggi non sono memorizzati sulla blockchain e non costa nulla inviarli. Per impostazione predefinita, i messaggi crittografati sono memorizzati nella cache dei nodi Status per 30 giorni, in modo da poter continuare a ricevere messaggi anche se il tuo telefono è offline. Anche quando i messaggi criptati sono memorizzati in questo modo, è impossibile per i nodi di Status leggere il contenuto di qualsiasi messaggio, o sapere chi sta parlando con chi.'
       q3:
-        question: 'Chi ospita i server di posta che archiviano i messaggi?'
-        answer: 'Whisper richiede un tipo speciale di nodo Ethereum per conservare e trasferire messaggi. Status è l''unica istanza di Whisper utilizzato in produzione. Pertanto, Status ospita un insieme di questi nodi speciali al fine di supportare i suoi utenti. Tuttavia, chiunque è in grado di ospitare un nodo del server di posta con l''hardware corretto. Puoi trovare istruzioni su come farlo <a href=''https://discuss.status.im/t/get-your-node-running/1488/2'' target=''_blank''> qui </a> .'
+        question: 'Chi ospita i nodi di Status che memorizzano temporaneamente i messaggi criptati?'
+        answer: 'Waku richiede un tipo speciale di nodo Status che memorizza i messaggi criptati mentre gli utenti possono essere offline. Attualmente, Status ospita una serie di questi nodi speciali per supportare i suoi utenti. Tuttavia, chiunque è in grado di ospitare un nodo Status con l''hardware adeguato. Potete trovare le istruzioni su come farlo <a href=''https://status.im/technical/run_status_node.html'' target=''_blank''>qui</a>.'
       q4:
         question: 'Come posso cambiare il mio nome in Status?'
-        answer: 'Se desideri aggiungere un nome personalizzato, puoi registrare un nome utente ENS. Vai a Profilo > Nomi utente ENS. Al momento della registrazione o colleghi un esistente <a href=''https://docs.google.com/document/d/1NO7wBRQU-cxKvoxvUx0hCyCbyaoGfdlI6l-d1_9U4mI/edit#bookmark=id.zgy4mci21861'' target=''_blank''> ENS nome utente </a> alla chiave della chat di Status, gli altri possono trovarti con questo nome utente. Puoi anche visualizzarlo al posto del tuo nome di tre parole.'
+        answer: 'Se vuoi aggiungere un nome personalizzato, puoi registrare un nome utente ENS. Vai su Profilo > Nome utente ENS. Quando registri o colleghi un nome utente ENS esistente alla tua chiave di chat di stato, gli altri possono trovarti con questo nome utente. Puoi anche visualizzarlo al posto del tuo nome in tre parole.'
       q5:
         question: 'Come invito i miei amici a usare Status?'
         answer: 'Puoi condividere il tuo profilo o una chat specifica con amici al di fuori di Status. <br> <br> Per condividere il tuo profilo e la chiave di chat, vai alla schermata del tuo profilo e fai clic sul pulsante di condivisione nell''angolo in alto a destra. Verrà generato un collegamento che il tuo amico può seguire per ottenere Status e caricare il tuo profilo. <br> <br> Per condividere una chat pubblica, apri la chat e seleziona "Condividi chat" dal menu [...] nell''angolo in alto a destra. Ciò genererà un collegamento alla chat, che potrai quindi inviare al tuo amico al di fuori di Status.'
@@ -862,8 +863,14 @@ site:
         question: 'Come posso iniziare una chat uno a uno con qualcuno su Status?'
         answer: 'Nella scheda Chat, tocca il pulsante [+] > Avvia nuova chat > Immettere il nome utente ENS o il tasto chat. O se l''altra persona è seduta accanto a te, scansiona il codice QR dal suo profilo. <br> <br> Se vuoi iniziare una chat individuale (uno a uno) con qualcuno in un canale pubblico, tocca il suo nome o avatar > Invia messaggio.'
       q9:
-        question: 'Ha importanza quale server di posta scelgo?'
-        answer: 'I server di posta più vicini a te in termini geografici trasmetteranno i messaggi più velocemente. Si consiglia di mantenere le impostazioni predefinite per la selezione automatica del server di posta. Con la selezione automatica abilitata, Status può misurare la latenza dei messaggi tra i server e scegliere quella più veloce per te. <br> <br> Se desideri connetterti al tuo server di posta o ad uno in esecuzione su uno specifico dispositivo affidabile, puoi aggiungere un server di posta personalizzato.'
+        question: 'È importante quale nodo Status seleziono?'
+        answer: 'I nodi Status che sono più vicini a te in termini di distanza geografica restituiranno i messaggi più velocemente. Si consiglia di mantenere l''impostazione predefinita per la selezione automatica dei nodi di stato. Con la selezione automatica abilitata, Status può misurare la latenza dei messaggi tra i server e scegliere quello più veloce per te. <br><br>Se vuoi connetterti al tuo nodo di stato, o a uno in esecuzione su uno specifico dispositivo fidato, puoi aggiungere un nodo di stato personalizzato.'
+      q10:
+        question: 'Status registra gli indirizzi IP?'
+        answer: 'La risposta breve è no. La risposta lunga è che mentre qualsiasi nodo di Status con cui interagisci tecnicamente può vedere il tuo indirizzo IP, è impossibile per loro associare questo indirizzo IP con la tua identità di chat. I nodi Status possono sapere se un determinato indirizzo IP è un utente di stato, ma non possono sapere quale utente in particolare. Inoltre, nessuna delle implementazioni correnti del nodo Status registra gli indirizzi IP e, anche se lo facessero, gli IP sarebbero inutili in quanto non potrebbero essere legati a utenti specifici.'
+      q11:
+        question: 'Status conosce chi parla con chi?'
+        answer: 'No. Anche se qualcuno dovesse eseguire un nodo maligno di Status, sarebbe impossibile per lui capire chi sta parlando con chi perché le informazioni del mittente sono sempre criptate, e a causa dell''uso di filtri bloom di Waku. Date un''occhiata a <a href=''https://vac.dev/'' target=''_blank''>Vac</a> per seguire la rigorosa ricerca che viene fatta sullo stack di messaggistica privata, sicura e decentralizzata di Status.'
     browser:
       title: Browser
       q1:
@@ -995,7 +1002,7 @@ site:
       description: 'Dap.ps è una soluzione di terze parti per la scoperta di dapp che mira a creare un mercato di dapp equo e gestito con token. Sfruttando SNT e le token economics, Dap.ps decentralizza il modo in cui esploriamo e troviamo le ultime DApps'
     submit:
       title: 'Vuoi inviare la tua DApp a Dap.ps per farla conoscere al mondo?'
-      description: 'Segui le istruzioni presenti nel nostro Centro di integrazione DApp'
+      description: 'Segui le istruzioni nel DApp Integration Center'
       button: 'Centro di integrazione DApp'
   wallet:
     intro:

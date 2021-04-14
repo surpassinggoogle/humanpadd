@@ -688,12 +688,12 @@ site:
     intro:
       title: 'Tambahkan Keamanan Perangkat Keras ke Pengalaman Status Anda'
       description: 'Lindungi aset dan akun Anda dengan Keycard - dompet perangkat keras penyimpanan dingin dengan pengalaman tanpa kontak yang nyaman. Khusus Android.'
-      button: 'Dapatkan Kartu Kunci €24.9'
+      button: 'Dapatkan Kartu Kunci €29'
     about:
       title: 'Apa itu Keycard?'
       description: 'Keycard adalah dompet perangkat keras penyimpanan dingin yang dirancang untuk menyimpan kunci pribadi Anda sepenuhnya offline untuk keamanan yang lebih besar atas dana Anda. <br> <br> Dibuat dengan teknologi NFC dan desain seperti kartu kredit untuk pengalaman tanpa kontak yang mulus. Dibuat dengan API terbuka untuk integrasi dengan dompet kripto pihak ketiga, DApps, dan perangkat keras.'
       button-1: 'Belajarlah lagi'
-      button-2: 'Dapatkan Kartu Kunci €24.9'
+      button-2: 'Dapatkan Kartu Kunci €29'
     secure:
       title: 'Mengamankan Status dengan Keycard'
       security:
@@ -714,7 +714,7 @@ site:
         description: 'Dibangun dengan teknologi NFC nirkontak dan desain yang ramping dan familiar, Keycard memberikan kenyamanan kartu kredit dengan keamanan dompet perangkat keras.'
       box-3:
         title: 'Keamanan Terjangkau'
-        description: 'Hanya dengan €24.9, Keycard memberikan jaminan keamanan perangkat keras yang kuat, tanpa label harga yang mahal.'
+        description: 'Hanya dengan 29€, Keycard memberikan jaminan keamanan perangkat keras yang kuat, tanpa label harga yang mahal.'
         link: 'Dapatkan Kartu Kunci €29'
     faq:
       title: 'Anda punya pertanyaan?'
@@ -920,7 +920,7 @@ site:
         answer: 'Kartu kunci saat ini hanya tersedia di Android untuk digunakan dengan Status. Tim Keycard saat ini sedang mengerjakan integrasi iOS.'
       q3:
         question: 'Berapa biaya Keycard?'
-        answer: 'Keycard berharga €24.9 Retail dan dapat dibeli di sini.'
+        answer: 'Keycard berharga 29€ Retail dan dapat dibeli di sini.'
       q4:
         question: 'Apakah Keycard terintegrasi dengan dompet lain?'
         answer: 'Status adalah integrasi produksi pertama dengan Keycard. Namun, pengembang dapat mengintegrasikan Keycard dengan produk mereka dengan Open Source Keycard API yang tersedia di sini.'

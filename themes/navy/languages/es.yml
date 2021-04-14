@@ -539,6 +539,7 @@ site:
     desktop:
       title: Escritorio
       description: 'Pruebe Desktop Beta para una comunicación privada y segura donde trabaja.'
+      instructions: '* Lee las instrucciones de instalación <u>aquí</u>.'
     download: 'Descargar Status para'
   docs:
     stripe:
@@ -688,12 +689,12 @@ site:
     intro:
       title: 'Agregue Seguridad de Hardware a Su Experiencia de Status'
       description: 'Proteja sus activos y cuentas con Keycard: la billetera de hardware de almacenamiento en frío con una experiencia conveniente y sin contacto. Solo Android.'
-      button: 'Obtener una Keycard €24.9'
+      button: 'Obtener una Keycard 29€'
     about:
       title: '¿Qué es Keycard?'
       description: 'Keycard es una billetera de hardware de almacenamiento en frío diseñada para mantener sus claves privadas completamente fuera de línea para una mayor seguridad sobre sus fondos. <br><br>Construido con tecnología NFC y un diseño similar al de una tarjeta de crédito para una experiencia perfecta y sin contacto. Construido con una API abierta para la integración con billeteras criptográficas, DApps y hardware de terceros.'
       button-1: 'Ver más'
-      button-2: 'Obtener una Keycard €24.9'
+      button-2: 'Obtener una Keycard 29€'
     secure:
       title: 'Asegurando Status con Keycard'
       security:
@@ -714,8 +715,8 @@ site:
         description: 'Construido con tecnología NFC sin contacto y un diseño elegante y familiar, Keycard brinda la conveniencia de una tarjeta de crédito con la seguridad de una billetera de hardware.'
       box-3:
         title: 'Seguridad Asequible'
-        description: 'Por solo €24.9, Keycard ofrece sólidas garantías de seguridad de hardware, sin el alto precio.'
-        link: 'Obtener una Keycard €24.9'
+        description: 'Por solo 29€, Keycard ofrece sólidas garantías de seguridad de hardware, sin el alto precio.'
+        link: 'Obtener una Keycard 29€'
     faq:
       title: '¿Tenés preguntas?'
       button: 'Ver más'
@@ -920,7 +921,7 @@ site:
         answer: 'Keycard actualmente solo está disponible en Android para su uso con Status. El equipo de Keycard está trabajando actualmente en la integración de iOS.'
       q3:
         question: '¿Cuánto cuesta Keycard?'
-        answer: 'Keycard cuesta €24.9 al por menor y se puede comprar aquí.'
+        answer: 'Keycard cuesta 29 € al por menor y se puede comprar aquí.'
       q4:
         question: '¿Keycard está integrado con otras billeteras?'
         answer: 'Status es la primera integración de producción con Keycard. Sin embargo, los desarrolladores pueden integrar Keycard con sus productos con la API de Keycard de código abierto disponible aquí.'

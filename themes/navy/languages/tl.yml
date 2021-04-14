@@ -20,7 +20,7 @@ site:
       subtitle: 'Pagpapanatili ng Pagkapribado'
       title: 'Tunay na Pribadong Pagmemensahe'
       description: 'Ang Status ay gumagamit ng open-source, peer-to-peer protocol, at end-to-end encryption upang maprotektahan ang iyong mga mensahe mula sa mga third party. Panatilihing pribado ang iyong mga pribadong mensahe sa Status.'
-      link: 'Galugarin ang Messenger'
+      link: 'I-explore ang lahat ng Tampok'
     wallet:
       subtitle: 'Borderless Crypto Payments'
       title: 'Secure ang Crypto Wallet'
@@ -42,7 +42,7 @@ site:
     account-creation:
       subtitle: 'Panatilihin ang Iyong Pagkapribado'
       title: 'Pseudo-Anonymous Account Creation'
-      description: 'Hindi ka hihilingin para sa isang numero ng telepono, email address, o bank account kapag lumilikha ng isang Status account. Manatiling pribado at pili na ihayag ang iyong sarili sa mundo na may Status.'
+      description: 'Hindi ka hihingian ng numero ng telepono, email address, o bank account kapag lumilikha ng isang Status account. Manatiling pribado at pili na ihayag ang iyong sarili sa mundo ng Status.'
   features:
     intro:
       title: 'Ang kapangyarihan ng Ethereum ay nasa iyong bulsa'
@@ -62,7 +62,7 @@ site:
         learn-more: 'Matuto ng mas marami tungkol sa Waku'
       feature-3:
         title: 'Perpektong pasulong na lihim at <br>E2E Encryption'
-        description: 'Ang Status ay gumagamit ng ''Double Ratchet'' algorithm sa itaas ng Whisper at end-to-end encryption para sa pinakamataas na marka ng seguridad at privacy.'
+        description: 'Gumagamit ang status ng algorithm na ''Double Ratchet'' sa tuktok ng Waku at end-to-end na pag-encrypt para sa pinakamataas na antas ng seguridad at privacy.'
     wallet:
       title: 'Pinagsama <br>Ethereum Wallet'
       feature-1:
@@ -507,7 +507,7 @@ site:
       dapp-curation:
         title: 'DApp Curation'
         status: Live
-        description: 'Dap.ps ay nagbibigaydaan para sa mga stakeholders sa network para mag diskubre ng DApps, na kaagapay ng ilang miyembro ng komunidad. Nagbibigay din ito ng isang paraan upang mag-navigate ng kategorya at mag rate, pagpapagana ng mga users upang mahanap ang eksaktong hinahanap nila. SNT ang kailangan nila upang mag proseso at mag senyas sa direktoryo. Ang isang deposito ng SNT ay kinakailangan ng mga DApp Developers na nais makakuha ng higit na pansin sa kanilang DApp.'
+        description: 'Ang Dap.ps ay isang third party, community deployed dapp na nagbibigay ng isang paraan para sa mga stakeholder sa network upang matuklasan ang DApps, na na-curate ng iba pang mga miyembro ng komunidad. Pinapayagan nito ang mga users na mahanap kung ano ang kanilang hinahanap sa pamamagitan ng pag-navigate ayon sa kategorya at rating. Kinakailangan ang SNT para sa curation at pagbibigay ng senyas sa direktoryo. Ang isang deposito ng SNT ay kinakailangan ng Mga Developer ng DApp na nais na makamit ang higit na pansin sa kanilang DApp.'
         link: 'Mag-browse sa DApps'
       voting-dapp:
         title: 'Voting DApp'
@@ -539,6 +539,7 @@ site:
     desktop:
       title: Desktop
       description: 'Subukan ang Desktop Beta para sa pribado, ligtas na komunikasyon kung saan ka nagtatrabaho.'
+      instructions: '* Basahin ang mga tagubilin sa pag-install <u> dito </u> .'
     download: 'I-download ang Status para sa'
   docs:
     stripe:
@@ -687,7 +688,7 @@ site:
   keycard-integration:
     intro:
       title: 'Magdagdag ng Hardware Security sa iyong Karanasan sa Status'
-      description: 'Protektahan ang iyong mga ari-arian at account sa Keycard - ang malamig na imbakan ng hardware wallet na contactless, maginhawang karanasan. Sa Android lang.'
+      description: 'Protektahan ang iyong assets at account sa Keycard - ang cold storage hardware wallet na contactless, maginhawang karanasan.'
       button: 'Kumuha ng isang Keycard sa halagang 29 €'
     about:
       title: 'Ano ang Keycard?'
@@ -715,7 +716,7 @@ site:
       box-3:
         title: 'Kaakibat na Seguridad'
         description: 'Sa halagang 29 € lamang, ang Keycard ay nagbibigay ng matibay na garantiya ng seguridad sa hardware, nang walang tag ng mamahaling presyo.'
-        link: 'Kumuha ng Keycard sa halagang €24.9'
+        link: 'Kumuha ng Keycard sa halagang 29€'
     faq:
       title: 'May mga katanungan kaba?'
       button: 'Matuto Nang Higit Pa'
@@ -758,7 +759,7 @@ site:
         answer: 'Karamihan sa mga messenger ay nag-aalok ng end-to-end encryption. Ang pamantayang pamantayang ito ay nangangahulugan na ang kumpanya na nagbibigay ng serbisyo ay hindi mabasa ang nilalaman ng iyong mga mensahe. Ngunit ang daloy ng impormasyon sa kanilang network ay publiko at pinapayagan ang pagpapakahulugan kung sino ang nakikipag-usap sa kanino, mula saan. Ang mga tradisyunal na messenger ay nangangailangan din ng pagkilala ng impormasyon upang mag-sign up, tulad ng isang numero ng telepono, at kadalasang nakakonekta ito sa isang host ng iba pang personal na data tungkol sa iyo. Ang Status ay hindi nangangailangan ng personal na impormasyon kung anuman upang makapagsisimula ka. Dahil sa imprastraktura ng peer-to-peer, Ang Status ay walang kaalaman tungkol sa kung sino ang makipag-ugnay sa kanino, o tungkol sa nilalaman ng iyong mga mensahe. <a href=''https://github.com/status-im/specs'' target=''_blank''>Narito</a> makakahanap ka ng mga pagtutukoy kung paano gumagana ang teknolohiyang ito.'
       q6:
         question: 'Ano ang mangyayari kung sinusubukan ng isang pamahalaan na hadlangan o i-censor ang Status?'
-        answer: 'Ang Status messenger ay hindi gumagamit ng isang sentral na server papunta at mula sa kung saan maaaring ma-block ang komunikasyon. Sa halip ang Status ay gumagamit ng isang distributed network ng mga mail servers. Tinitiyak nito na nababanat ang network. Kung isinara ang isang mail server maaari kang kumonekta sa isa pang mail server o simulan ang <a href=''https://discuss.status.im/t/get-your-node-running/1488/4?u=hester'' target=''_blank''> pagpapagana ng iyong sariling </a> . Gayunpaman, ang Status at mga mail servers sa network ay umaasa pa rin sa pagkakaroon ng koneksyon sa Internet. Kung ang Internet ay isinara dahil sa telecom providers hindi mo magagamit ang Status.'
+        answer: 'Ang Status messenger ay hindi gumagamit ng central server papunta at kung saan maaaring mai-block ang komunikasyon. Sa halip ang Status ay gumagamit ng isang ipinamamahaging network ng mga ''Status nodes''. Tinitiyak nito ang katatagan ng network. Kung ang Status node ay na-shut down maaari kang kumonekta sa isa pang node o magsimula <a href=''https://discuss.status.im/t/get-your-node-running/1488/4?u=hester'' target=''_blank''> pagpapatakbo ng sarili mong </a> . Gayunpaman, ang Status at mga nodes sa network ay umaasa pa rin sa pagkakaroon ng isang koneksyon sa Internet. Kung ang Internet ay nakasara sa pamamagitan ng mga tagapagbigay ng telecom hindi mo magagamit ang Status.'
       q7:
         question: 'Paano kumonekta ang Status sa blockchain?'
         answer: 'Ang Status ay nakabalot sa go-ethereum, na kumokonekta sa Ethereum network. Ang kailangan mo lang gawin para kumonekta sa Ethereum ay paganahin ang Status app! Tandaan na ang wallet at browser lamang ang nakikipag-ugnay sa Ethereum blockchain. Ang mga mensahe ay hindi nakaimbak sa blockchain.'
@@ -801,8 +802,8 @@ site:
         question: 'Ano ang aking address ng pitaka?'
         answer: 'Ang iyong wallet address ay mayroong 42 character at nagsisimula sa 0x. Ito ay isang on-chain identitiy para sa iyong Ethereum account. Kung mayroon kang maraming mga account, mayroon kang maraming mga address. Maaari mong mahanap ang iyong wallet address sa pamamagitan ng pagpunta sa Wallet > Account card > Tumanggap o sa pamamagitan ng pag-tap sa icon ng ibahagi sa Account card. <br> <br> <i> Tandaan na kahit na mukhang itong katulad, ang iyong wallet address ay hindi pareho sa iyong chat key. Maaari mong makita ang iyong chat key sa Profile >Share icon. </i>'
       q4:
-        question: 'Gaano karaming mga account ang maaari kong likhain sa Status?'
-        answer: 'Maaari kang lumikha ng maraming mga account hangga''t gusto mo. Pumunta sa Wallet > Add account. Ang mga account na idinagdag sa ganitong paraan ay maaaring mabawi gamit ang iyong seed phrase, kasama ang iyong master key pair, kung nawalan ka ng pag-access sa iyong account. <br> <br> Maaari ka ring lumikha ng higit pang master key pairs sa pamamagitan ng pagpunta sa start screen Ang iyong mga keys > Generate keys o Access existing keys kung nais mong i-import ang mga keys mula sa isa pang wallet o lumikha ng isang ganap na bagong keychain ng pagkakakilanlan.'
+        question: 'Ilan ang mga account na maaari kong mabuo sa Status?'
+        answer: 'Maaari kang lumikha ng maraming mga account hangga''t gusto mo. Pumunta sa Wallet > Add account. Ang mga account na idinagdag sa ganitong paraan ay maaaring mabawi gamit ang iyong seed phrase, kasama ang iyong master key pair, kung nawalan ka ng pag-access sa iyong account. <br> <br> Maaari ka ring lumikha ng higit pang master key pairs sa pamamagitan ng pagpunta sa start screen Your keys > Generate keys o Access existing keys kung nais mong i-import ang mga keys mula sa isa pang wallet o lumikha ng isang ganap na bagong keychain ng pagkakakilanlan.'
     profile-and-settings:
       title: 'Profile at Mga Setting'
       q1:
@@ -828,7 +829,7 @@ site:
         answer: 'Sakit yan. Una suriin kung hindi mo na mai-back up ang iyong seed phrase sa ilalim ng Profile > Pagkapribado at Seguridad. Kung ang item na ''Back uo seed phrase'' ay greyed out, hindi mo na ma-access ang seed phrase. <br> <br> Ang pinakamagandang opsyon ngayon ay ang maglikha ng isang bagong key gamit ang isang bagong seed, at ilipat ang iyong mga assets sa bagong account. Sa Status pumunta sa Sign out > Bumuo ng isang bagong key. Sundin ang mga hakbang sa screen para maimbak at mai-secure ang bagong key. Kapag tapos ka na, pumunta sa Profile >Pagkapribado at Seguridad > Back up seed phrase. Itago ang seed phrase ng ligtas offline. Pagkatapos ay pumunta sa Wallet >Share icon o Tumanggap > Tapikin ang address upang kopyahin. Mag-sign out. <br> <br> I-unlock ang mga keys kung saan nawala ang iyong seed phrase gamit ang iyong password. Ipadala ang lahat ng mga assets mula sa mga account sa iyong wallet papunta sa iyong bagong address.'
       q8:
         question: 'Paano ko tatanggalin ang aking profile?'
-        answer: 'Ang iyong profile ay nag-eexists lamang sa lokal. Ang anumang mga mensahe na iyong ipinadala ay mananatili sa mga mail server sa loob ng 30 araw. Pagkatapos nito, titigil sa pagkakaroon ang mensahe. Ang mga transaksyon na ginawa mo gamit ang isang account sa iyong wallet ay mananatili sa blockchain.'
+        answer: 'Ang iyong profile ay nag-eexists lamang sa lokal. Anumang mga mensahe na iyong naipadala ay mananatili sa Status node sa loob ng 30 araw. Pagkatapos nito, hindi na umiiral ang mensahe. Ang mga transaksyon na nagawa mo gamit ang isang account sa iyong wallet ay mananatili sa blockchain.'
       q9:
         question: 'Kung may nakakakuha ng access sa aking telepono, anong bahagi ng aking profile ang naka-encrypt at ano ang hindi?'
         answer: 'Ang iyong mga pribadong key ay naka-encrypt sa lahat ng oras at maaari mo lamang itong magamit upang mag-sign ng mga transaksyon kasabay ng iyong password o passcode. Kasama sa impormasyong hindi naka-encrypt ang 3 pangalan ng salita, kung kailan mo huling ginamit ang Status (nai-lock ang iyong mga susi), ang iyong profile ng larawan, at ang nagpapakilala ng iyong Keycard kung mayroon ka.'
@@ -839,16 +840,16 @@ site:
       title: Messenger
       q1:
         question: 'Pribado ba talaga ang aking mga mensahe?'
-        answer: 'Oo, sila. Ang Status ay kasalukuyang gumagamit ng Whisper, ang protocol ng pagmemensahe ng Ethereum stack. Ang Whisper ay nagbibigay ng peer-to-peer messaging na may zero na pag-asa sa mga sentralisadong server, data center o service provider. <br> <br> Ang bawat mensahe ay naka-encrypt end-to-end, at nai-broadcast sa bawat solong peer sa network para sa itinakdang oras. Ginagawa nitong hindi lamang imposible para sa hindi sinasadyang mga audiences na basahin ang nilalaman ng mga mensahe, ngunit makita din kung sino ang nagpapadala ng mga mensahe kung para kanino. Para sa pribadong mga mensahe ng 1: 1, tanging ang inilaan na recepient ng isang mensahe ay maaaring i-decrypt ang content. Para sa mga pampublikong chat, ang sinumang nakakaalam ng pangalan ng chat ay maaaring i-decrypt ang content. <br> <br> Ang karagdagang proteksyon ay ang paggamit ng isang bagong encryption key sa bawat mensahe, pagkatapos ng paunang key exchange sa pagitan ng mga gumagamit (Perfect Forward Secrecy). Kung ang iyong message key ay nakompromiso, ang mensahe lamang para sa partikular na key na ito ay nakompromiso. Walang pag-access sa mga nakaraang mensahe. <br> <br> Ang privacy ng Whisper ay nagbibigay gastos ng mataas na paggamit ng data. Patuloy ang pag-unlad ng isang kahalili. Maaari mong sundin ang pag-unlad <a href=''https://forum.vac.dev/t/waku-project-and-progress/24'' target=''_blank''> dito </a> .'
+        answer: 'Oo. Gumagamit ang Status ng Waku, isang peer-to-peer na protokol para sa pribado, ligtas at lumalaban sa komunikasyon na hindi nakasensor, na itinayo ng <a href=''https://vac.dev'' target=''_blank''> Vac Team </a> . Nagbibigay ang Waku ng nababanat na pagmemensahe na may zero na pagpapakandili sa mga sentralisadong server, data center o service provider. <br> <br> Bawat mensahe ay end-to-end na naka-encrypt, at nai-broadcast sa bawat solong peer sa network. Ginagawa nitong hindi lamang imposible para sa mga hindi nilalayon na madla na basahin ang nilalaman ng mga mensahe, ngunit upang makita din kung sino ang nagpapadala ng mga mensahe sa kanino. Ang impormasyon ng nagpadala ay laging naka-encrypt, na ginagawang imposible para sa Status node na mangolekta ng anumang metadata ng komunikasyon. Para sa mga pribadong mensahe ng 1: 1, ang inilaan lamang na tatanggap ng isang mensahe ang makaka-decrypt ng nilalaman. Para sa mga pampublikong pakikipag-chat, ang sinumang may alam sa pangalan ng chat ay maaaring maka-decrypt ng nilalaman. <br> <br> Ang isang karagdagang pag-iingat ay ang paggamit ng isang bagong key ng pag-encrypt sa bawat mensahe pagkatapos ng paunang key exchange sa pagitan ng mga users (perpektong lihim na pasulong). Kung nakompromiso ang iyong message key, ang mensahe lamang para sa partikular na key na iyon ang nakompromiso, at hindi para sa anumang mga naunang mensahe.'
       q2:
         question: 'Nasaan ang aking mga mensahe na naka-imbak? Nasa blockchain ba sila?'
-        answer: 'Ang mga mensahe ay hindi nakaimbak sa blockchain at walang gastos na ipadala. Ang mga mensahe ay naka-imbak sa isang mail server sa loob ng 30 araw, at sa iyong telepono sa sandaling natanggap mo ang mga ito sa pamamagitan ng pagbubukas ng Status at pagkonekta sa network. Upang maabot ka, ang mga mensahe ay ipapasa sa devp2p — ang layer ng transportasyon para sa Whisper - ngunit hindi ipinadala sa pamamagitan ng Ethereum Virtual Machine.'
+        answer: 'Ang mga mensahe ay hindi nakaimbak sa blockchain at hindi nagkakahalaga ng anumang maipadala. Bilang default, ang mga naka-encrypt na mensahe ay naka-cache sa Status node sa loob ng 30 araw upang makatanggap ka pa rin ng mga mensahe kahit na offline ang iyong telepono. Kahit na ang mga naka-encrypt na mensahe ay nakaimbak sa ganitong paraan, imposibleng mabasa ng Status node ang mga nilalaman ng alinman sa mga mensahe, o malaman kung sino ang nakikipag-usap sa kung sino.'
       q3:
-        question: 'Sino ang nagho-host sa mga mail server na nag-iimbak ng mga mensahe?'
-        answer: 'Ang Whisper ay nangangailangan ng isang espesyal na uri ng Ethereum node para mag-imbak at maglipat ng mga mensahe. Ang Status ay ang tanging halimbawa ng Whisper na ginagamit sa production. Sa gayon, ang Status ay nagho-host ng isang hanay ng mga espesyal na node upang suportahan ang mga gumagamit nito. Gayunpaman, ang sinuman ay magagawang mag-host ng isang mail server node na may tamang hardware. Maaari kang makahanap ng mga instructions kung paano gawin ito <a href=''https://discuss.status.im/t/get-your-node-running/1488/2'' target=''_blank''> dito </a> .'
+        question: 'Sino ang nagho-host ng mga Status node na pansamantalang nag-iimbak ng mga naka-encrypt na mensahe?'
+        answer: 'Nangangailangan ang Waku ng isang espesyal na uri ng Status node na nag-iimbak ng mga naka-encrypt na mensahe habang ang mga users ay maaaring offline. Sa kasalukuyan, nagho-host ang Status ng isang hanay ng mga espesyal na node na ito upang suportahan ang mga users nito. Gayunpaman, ang sinuman ay maaaring mag-host ng naturang Status node na may wastong hardware. Maaari kang makahanap ng mga instructions sa kung paano ito gawin <a href=''https://status.im/technical/run_status_node.html'' target=''_blank''> dito </a> .'
       q4:
         question: 'Paano ko papalitan ang aking pangalan sa Status?'
-        answer: 'Kung nais mong magdagdag ng custom name, maaari kang magparehistro ng isang ENS username. Pumunta sa Profile > ENS usernames. Kapag nagrehistro ka o kumonekta sa isang existing na <a href=''https://docs.google.com/document/d/1NO7wBRQU-cxKvoxvUx0hCyCbyaoGfdlI6l-d1_9U4mI/edit#bookmark=id.zgy4mci21861'' target=''_blank''> ENS username </a> sa iyong Status chat key, ikaw ay mahahanap ng iba sa pamamagitan ng username na ito. Maaari mo ring ipakita ito sa halip ng iyong three word name.'
+        answer: 'Kung nais mong magdagdag ng isang custom name, maaari kang magrehistro ng isang ENS username. Pumunta sa Profile > ENS username. Kapag nagrehistro ka o nagkonekta ng isang mayroon nang ENS username sa iyong status chat key, mahahanap ka ng iba sa pamamagitan ng username na ito. Maaari mo ring ipakita ito sa lugar ng iyong three word name.'
       q5:
         question: 'Paano ko imbitahan ang aking mga kaibigan sa Status?'
         answer: 'Maaari mong ibahagi ang alinman sa iyong profile o isang specific chat sa mga kaibigan sa labas ng Status. <br> <br> Para ibahagi ang iyong sariling profile at chat key, pumunta sa screen ng iyong profile at i-click ang share button sa itaas ng kanang sulok sa kanang kamay. Ang isang link ay lilikha na maaaring sundin ng iyong kaibigan upang makuha ang Status at mai-load ang iyong profile. <br> <br> Para mag-share ng isang pampublikong chat, buksan ang chat, at piliin ang "Share chat" mula sa [...] na menu sa kanang sulok sa kanang kamay. Ito ay bubuo ng isang link sa chat, na maaari mong ipadala sa iyong kaibigan sa labas ng Status.'
@@ -862,8 +863,14 @@ site:
         question: 'Paano mag simula ng chat 1:1 kasama ang isang tao sa Status?'
         answer: 'Sa Chat tab, tapikin ang [+] button > upang makapag simula ng bagong chat > ilagay ang ENS username o chat key. O kung ang ibang tao ay nakaupo sa tabi mo, maari mong i-scan ang QR code sa kanilang mga profile. <br><br> kung nais mong magsimula ng 1:1 sa isang pampublikong channel, i-tap lang ang kanilang pangalan o avatar > Magpadala ng mensahe.'
       q9:
-        question: 'Mahalaga ba kung aling mail server ang pinili ko?'
-        answer: 'Ang mga mail server na mas malapit sa iyo sa distansya ng heograpiya ay magbabalik ng mga mensahe nang mas mabilis. Inirerekomenda na panatilihin mo ang default na setting para sa awtomatikong pagpili ng server ng mail. Sa pinaganang awtomatikong pagpili, Maaaring masukat ni Status ang latency ng mga mensahe sa pagitan ng mga server at humanap ng mas mabilis para sa iyo. <br><br> kung nais mong kumonekta sa iyong sariling mail server, o sa isang tumatakbong tiyak na mapagkakatiwalaang aparato, maaari kang magdagdag ng isang pasadyang mail server.'
+        question: 'Mahalaga bang aling Status node ang aking pipiliin?'
+        answer: 'Ang Status nodes na mas malapit sa iyo sa geographic distance ay magbabalik ng mga mensahe nang mas mabilis. Inirerekumenda na panatilihin mo ang default na setting para sa awtomatikong pagpili ng Status node. Gamit ang awtomatikong pagpili ng pagpipilian, maaaring masukat ng Status ang latency ng mga mensahe sa pagitan ng mga server at piliin ang pinakamabilis para sa iyo. <br> <br> Kung nais mong kumonekta sa iyong sariling Status node, o sa isang tumatakbo sa isang tukoy na pinagkakatiwalaang device, maaari kang magdagdag ng isang custom Status node.'
+      q10:
+        question: 'Nag-log ka ba ng mga IP address?'
+        answer: 'Ang maikling sagot ay hindi. Ang mahabang sagot ay habang ang anumang mga Status nodes na nakikipag-ugnay ka sa teknikal ay maaaring makita ang iyong IP address, ito ay imposible para sa kanila na maiugnay ang IP address na ito sa iyong pagkakakilanlan sa chat. Maaaring malaman ng Status nodes kung ang isang naibigay na IP address ay isang Status user, ngunit hindi nila malalaman kung aling partikular ang gumagamit. Bilang karagdagan, wala sa kasalukuyang pagpapatupad ng Status Node ang nag-log ng mga IP address, at kahit na ginawa nila ito, ang mga IP ay walang silbi dahil hindi sila maaaring maiugnay sa anumang tukoy na mga gumagamit.'
+      q11:
+        question: 'Alam mo ba kung sino ang nakikipag-usap sa kanino?'
+        answer: 'Hindi. Kahit na magpatakbo ng isang malicious Status node, ito ay imposible para sa kanila na malaman kung sino ang nakikipag-usap sa kung sino dahil ang impormasyon ng nagpadala ay laging naka-encrypt, at dahil sa paggamit ng mga bloom filter ni Waku. Tingnan ang <a href=''https://vac.dev/'' target=''_blank''> Vac </a> upang sundin ang mahigpit na pagsasaliksik na ginagawa sa pribado, ligtas at desentralisadong stack ng pagmemensahe ng Status.'
     browser:
       title: Browser
       q1:
@@ -995,7 +1002,7 @@ site:
       description: 'Ang Dap.ps ay isang third party na solusyon sa pagtuklas ng dapp na naglalayong lumikha ng isang patas, token na na-curate na dapp marketplace. Paggamit ng SNT at token economics, ang Dap.ps ay desentralisahin ang paraan ng aming paggalugad at paghanap ng pinakabagong DApps'
     submit:
       title: 'Nais mong isumite ang iyong DApp sa Dap.ps para makita ng mundo?'
-      description: 'Sundin ang mga tagubilin sa aming DApp Integration Center'
+      description: 'Sundin ang mga tagubilin sa DApp Integration Center'
       button: 'DApp Integration Center'
   wallet:
     intro:
@@ -1030,11 +1037,11 @@ site:
       title: 'Pseudo-Anonymous Account Creation'
     usernames:
       title: 'Three-Word Default Usernames at Privacy'
-      description: 'Kapag lumilikha ng isang account, ang isang proseso ng randomization ay pipili ng tatlong mga salita - Pang-uri, pang-uri, hayop. Ito ang iyong naging default na username sa Katayuan at nagreresulta sa tunay na pseudo-pagkawala ng lagda.'
+      description: 'Kapag lumilikha ng isang account, ang isang proseso ng randomization ay pipili ng tatlong mga salita - Adjective, adjective, animal. Ito ang iyong maging default username sa Status at nagreresulta sa tunay na pseudo-anonymity.'
       button: 'Matuto Nang Higit Pa tungkol sa mga Username ng Status'
     key:
       title: 'Secure Key Generation'
-      description: 'Sa panahon ng proseso ng paglikha ng account, ang isang chat at wallet keypair ay mabubuo sa pamamagitan ng isang landas na nagmula sa BIP43 mula sa isang BIP39 mnemonic seed phrase. Ikaw lang ang may access sa mga pribadong key kaya''t panatilihing ligtas ang mga ito.'
+      description: 'Sa panahon ng proseso ng paglikha ng account, ang chat at wallet keypair ay mabubuo sa pamamagitan ng isang BIP43 derived path mula sa isang BIP39 mnemonic seed phrase. Ikaw lang ang may access sa mga pribadong key kaya''t panatilihing ligtas ang mga ito.'
       button: 'Matuto Nang Higit Pa tungkol sa Key Generation'
     status:
       title: 'Mga Username ng Estado ng Us na may ENS'

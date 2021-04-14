@@ -23,6 +23,7 @@ language:
   - tl
   - ms
   - el
+  - pl
 locale: en
 i18n:
   type: [page, post]

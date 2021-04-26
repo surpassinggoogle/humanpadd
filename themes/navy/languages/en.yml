@@ -624,6 +624,9 @@ site:
   account-creation:
     intro:
       title: "Pseudo-Anonymous Account Generation"
+      description-1: "No phone number"
+      description-2: "No email address"
+      description-3: "No bank account"
     usernames:
       title: "Three-Word Default Usernames and Privacy"
       description: "When generating an account, a randomization process selects three words – Adjective, adjective, animal. This becomes your default username in Status and results in true pseudo-anonymity."

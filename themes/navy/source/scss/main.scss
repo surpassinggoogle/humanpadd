@@ -194,6 +194,41 @@ body {
   }
 }
 
+.privacy-policy-table table {
+  width: 100%;
+  table-layout: fixed;
+}
+
+.privacy-policy-table thead {
+  border-width: 1px;
+}
+
+.privacy-policy-table th {
+  padding: 4px;
+  border-width: 1px;
+  background-color: lightgray;
+}
+
+.privacy-policy-table td {
+  border-width: 1px;
+  padding: 15px;
+  vertical-align: top;
+}
+
+@media (max-width: 500px) {
+  .privacy-policy-table {
+    overflow-x: scroll;
+  }
+
+  .privacy-policy-table table {
+    width: max-content;
+  }
+
+  .privacy-policy-table td {
+    width: 300px;
+  }
+}
+
 
 // Importing Vendored Keycard SCSS
 @import 'animations';

@@ -64,7 +64,7 @@ Data processed in connection with your Ethereum account:
 
 | Personal Data 	| Purpose(s)	| Legal basis 	| Stored 	|
 |-	|-	|-	|-	|
-| Ethereum account information:<br><br>- Ethereum address, transaction history, tokens, and amounts<br><br>- Registered ENS name (if applicable) and other data stored on the blockchain via your Ethereum account 	| To allow you to access details of your Ethereum account using the Status app 	| Legitimate interest and consent:<br><br>- Necessary to perform our contract with you; for example, this data is necessary if you use your Ethereum account on the Status app<br><br>- You give your consent by sharing information on a public blockchain 	| Immutable 	|
+| Ethereum account information:<br><br>- Ethereum address, transaction history, tokens, and amounts<br><br>- Registered ENS name (if applicable) and other data stored on the blockchain via your Ethereum account 	| To allow you to access details of your Ethereum account using the Status app 	| Consent and Legitimate Interest:<br><br>- Necessary to perform our contract with you; for example, this data is necessary if you use your Ethereum account on the Status app<br><br>- You give your consent by sharing information on a public blockchain 	| Immutable 	|
 
 </div>
 
@@ -82,7 +82,7 @@ Data processed for the technical functioning of the Status app:
 
 | Personal Data 	| Purpose(s)	| Legal basis 	| Stored 	|
 |-	|-	|-	|-	|
-| Peer ID 	| These data are used to: <br>Prevent excessive data traffic from the same IP-address through rate limiting, <br>in order to ensure the network <br> isn’t overloaded and remains operational 	| Legitimate interest:<br>Necessary to prevent the network <br> from being overloaded 	| 30 days 	|
+| Peer ID 	| To prevent excessive data traffic from the same IP-address through rate limiting, <br>in order to ensure the network <br> isn’t overloaded and remains operational 	| Legitimate Interest:<br>Necessary to prevent the network <br> from being overloaded 	| 30 days 	|
 
 </div>
 
@@ -112,7 +112,7 @@ Data processed through the Status Referral Program:
 
 | Personal Data 	| Purpose(s)	| Legal basis 	| Stored 	|
 |-	|-	|-	|-	|
-| Information about Referrer: <br><br>- Referral code connected to Referrer’s Ethereum address<br><br>Information about Recipient:<br><br>- IP-address (hashed)<br><br>- Ethereum address 	| These data are used to:<br><br>- Grant tokens to the Ethereum address (connected to the referral code)<br><br>- Prevent fraud, such as rejecting duplicate referral codes from the same Recipient IP-address<br><br>- Check if the IP-address is sourced from a restricted country, and if so, block the release of tokens. 	| Legitimate interest and consent:<br><br>- Necessary to execute our Referral Program and grant rewards, prevent fraud, and prevent registration by IP-addresses sourced from a restricted country<br><br>- By participating in the Referral Program, you consent to the program terms and conditions 	| 7 days 	|
+| Information about Referrer: <br><br>- Referral code connected to Referrer’s Ethereum address<br><br>Information about Recipient:<br><br>- IP-address (hashed)<br><br>- Ethereum address 	| We use these data to:<br><br>- Grant tokens to the Ethereum address (connected to the referral code)<br><br>- Prevent fraud, such as rejecting duplicate referral codes from the same Recipient IP-address<br><br>- Check if the IP-address is sourced from a restricted country, and if so, block the release of tokens. 	| Consent and Legitimate Interest:<br><br>- Necessary to execute our Referral Program and grant rewards, prevent fraud, and prevent registration by IP-addresses sourced from a restricted country<br><br>- By participating in the Referral Program, you consent to the program terms and conditions 	| 7 days 	|
 
 </div>
 
@@ -130,7 +130,7 @@ Status only receives and processes the following from advertisers:
 
 | Personal Data 	| Purpose(s)	| Legal basis 	| Stored 	|
 |-	|-	|-	|-	|
-| Data collected on referral URLs created by Status:<br>ClickIDs<br><br>- Attribution of ClickID to referral code<br><br>- IP address (hashed, in case of attribution) 	| We use these data to:<br><br>- Establish rewards<br><br>- Review effectiveness of advertisers<br><br>- Track advertisement conversions 	| Legitimate interest:<br><br>- Necessary to perform our contract with you, such as execute our Referral Program and grant tokens<br><br>- To review the effectiveness of advertisers 	| 30 days 	|
+| Data collected on referral URLs created by Status:<br>ClickIDs<br><br>- Attribution of ClickID to referral code<br><br>- IP address (hashed, in case of attribution) 	| We use these data to:<br><br>- Establish rewards<br><br>- Review effectiveness of advertisers<br><br>- Track advertisement conversions 	| Legitimate Interest:<br><br>- Necessary to perform our contract with you, such as execute our Referral Program and grant tokens<br><br>- To review the effectiveness of advertisers 	| 30 days 	|
 
 </div>
 
@@ -144,7 +144,7 @@ Data processed through external (social media) pages:
 
 | Personal Data 	| Purpose(s)	| Legal basis 	| Stored 	|
 |-	|-	|-	|-	|
-| - Information you make public <br>when you leave a comment or <br>otherwise post something on <br>our external (social media) pages<br><br>- For example, Status has pages on <br>the following (social media) platforms: <br>Facebook, Twitter, Instagram, YouTube, <br>Reddit, GitHub, Discuss and Discord 	| We use these data to:<br><br>- Contact you via our (social media) pages<br><br>- Process your input and/or feedback <br>left on our (social media) pages<br><br>We will explicitly not gather <br>any more information about you <br>or link your social media account <br>to your chat name, ENS name, or IP-address. 	| Legitimate interest:<br><br>- Necessary to get in touch with you regarding your message<br><br>- Process your input, respond to feedback<br><br>Our external (social media) pages are also controlled by <br>the platform itself. <br>Please check the social media privacy policies, <br>to see how each platform handles your personal data. 	| As long as your message <br>is available on the pages concerned, <br>in accordance with the page’s privacy policy, <br>or until you delete the message 	|
+| - Information you make public <br>when you leave a comment or <br>otherwise post something on <br>our external (social media) pages<br><br>- For example, Status has pages on <br>the following (social media) platforms: <br>Facebook, Twitter, Instagram, YouTube, <br>Reddit, GitHub, Discuss and Discord 	| We use these data to:<br><br>- Contact you via our (social media) pages<br><br>- Process your input and/or feedback <br>left on our (social media) pages<br><br>We will explicitly not gather <br>any more information about you <br>or link your social media account <br>to your chat name, ENS name, or IP-address. 	| Legitimate Interest:<br><br>- Necessary to get in touch with you regarding your message<br><br>- Process your input, respond to feedback<br><br>Our external (social media) pages are also controlled by <br>the platform itself. <br>Please check the social media privacy policies, <br>to see how each platform handles your personal data. 	| As long as your message <br>is available on the pages concerned, <br>in accordance with the page’s privacy policy, <br>or until you delete the message 	|
 
 </div>
 
@@ -162,7 +162,7 @@ Data processed when you contact us:
 
 | Personal Data 	| Purpose(s)	| Legal basis 	| Stored 	|
 |-	|-	|-	|-	|
-| - Your chat name or ENS name and <br>all (personal) data you share with us <br>in your message on the Status app<br><br>- Your email address when you send us an email<br><br>Please note: as a rule, your chat name <br>is generated on your own devices. <br>Your chat name will only be <br>shared with Status or other users if you chat. 	| We use these data to:<br>Contact you about your message<br>Provide you information and/or support. 	| Legitimate interest and consent:<br><br>- Necessary to contact you about <br>your message to provide you <br>the support you requested<br><br>- You give your consent <br>to being contacted by reaching out to us 	| As long as needed to resolve your concern 	|
+| - Your chat name or ENS name and <br>all (personal) data you share with us <br>in your message on the Status app<br><br>- Your email address when you send us an email<br><br>Please note: as a rule, your chat name <br>is generated on your own devices. <br>Your chat name will only be <br>shared with Status or other users if you chat. 	| We use these data to:<br>Contact you about your message<br>Provide you information and/or support. 	| Consent and Legitimate Interest :<br><br>- Necessary to contact you about <br>your message to provide you <br>the support you requested<br><br>- You give your consent <br>to being contacted by reaching out to us 	| As long as needed to resolve your concern 	|
 
 </div>
 
@@ -197,6 +197,8 @@ Status protects the personal data we process from unauthorized and unlawful acce
 - We restrict access to personal data to our contributors and all other parties we work with on a need-to-know basis, subject to strict contractual confidentiality obligations.
 
 - We perform periodic internal security audits.
+
+<br/>
 
 Learn more about how seriously we protect your data by reading our [Security Protocol](https://status.im/security/).
 

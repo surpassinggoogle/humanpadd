@@ -15,6 +15,7 @@ Guided by our principles, Status is designed to protect your privacy and process
 
 In this Privacy Policy, we explain how Status strives to only request data that’s useful and required, not to hold that data longer than necessary, and to give you as much control as possible over your data.
 
+<img src="/privacy-policy/1.png" alt="1" style="margin-top:60px;width:72px;"/>
 
 ### Who we are
 
@@ -32,6 +33,8 @@ Some of our products and services include:
 
 You can find more information about Status products and services on our [website](https://status.im/).
 
+<img src="/privacy-policy/2.png" alt="2" style="margin-top:60px;width:72px;"/>
+
 ### Our role in your privacy
 
 If you’re a user of any Status product or service, or just visiting our website, this Privacy Policy applies to you. 
@@ -41,6 +44,8 @@ When Status collects and processes personal data for our own purposes(which we d
 You can exchange messages with other users through the Status app. In these situations, Status acts as the ‘[data processor](https://gdpr.eu/tag/gdpr/)’ of information provided by you. This means we process these data strictly on your behalf, as a Status app user, and we will never process the data for our own purposes. 
 
 Personal data means all information by which a person can be directly or indirectly identified, in line with the definitions of the General Data Protection Regulation (GDPR), the Swiss Federal Act on Data Protection of June 19, 1992 (DPA) and its ordinances, and other relevant legislation on the protection of personal data. When we refer to privacy legislation in this Privacy Policy, we mean GDPR and all such relevant legislation.
+
+<img src="/privacy-policy/3.png" alt="3" style="margin-top:60px;width:72px;"/>
 
 ### How and why we use your data
 
@@ -170,6 +175,8 @@ Data processed when you contact us:
 
 Our Core Contributor Privacy Policy can be found [here](https://people-ops.status.im/ccprivacypolicy/).
 
+<img src="/privacy-policy/4.png" alt="4" style="margin-top:60px;width:72px;"/>
+
 ### How we work with third party processors
 
 Status won’t share your personal data with third parties. 
@@ -182,9 +189,13 @@ However, Status may engage (sub) processors that we trust to carry out the proce
 
 We use the following external services and tools: Infura, Inc. (to collect and send your Ethereum data), Etherscan (to allow users to search the Ethereum blockchain for transactions, addresses, tokens, prices, and other activities), CryptoCompare (to obtain current fiat value), and services others use to host ERC721 content (including collectibles such as Cryptokitties). 
 
+<img src="/privacy-policy/5.png" alt="5" style="margin-top:60px;width:72px;"/>
+
 ### Exporting data outside the European Union
 
 Status may transmit personal data to parties outside the European Union, if one of our (sub) processors is established outside the European Union. Personal data will only be processed in countries or by parties that provide an adequate level of protection in accordance with European standards. The transmission of data outside the European Union will always happen in conformity with privacy legislation.
+
+<img src="/privacy-policy/6.png" alt="6" style="margin-top:60px;width:72px;"/>
 
 ### We’re serious about data security
 
@@ -202,9 +213,13 @@ Status protects the personal data we process from unauthorized and unlawful acce
 
 Learn more about how seriously we protect your data by reading our [Security Protocol](https://status.im/security/).
 
+<img src="/privacy-policy/7.png" alt="7" style="margin-top:60px;width:72px;"/>
+
 ### A quick bite on cookies
 
 No cookies are needed to use the Status app secure messaging feature and crypto wallet. So we don’t use them for those services. However, cookies are necessary for the technical operation of our website and Web3 browser (for DApps). When we have to use cookies, we choose cookies that don’t hold any user-specific information and are essential for the operation of the product or service.
+
+<img src="/privacy-policy/8.png" alt="8" style="margin-top:60px;width:72px;"/>
 
 ### This Privacy Policy might change
 

@@ -207,6 +207,10 @@ $(document).ready(function($) {
     }, 300);
   });
 
+  if (window.location.href.split("jobs.html?").length === 2) {
+    $('#jobs-description').css("display", "none")
+  }
+
   if ($('.js-announcement').length) {
     var ghostContentKey = '10e7f8c1f793d2945ea1177076';
     $.ajax({

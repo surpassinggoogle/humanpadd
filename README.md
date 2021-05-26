@@ -46,6 +46,6 @@ Unfortunately, adding subdirectories within subdirectories like `status.im/secur
 
 ## Search Cluster
 
-For providing search an [ElasticSearch](https://www.elastic.co/products/elasticsearch) cluster is used, which is available at https://search.status.im/.
+For providing search an [ElasticSearch](https://www.elastic.co/products/elasticsearch) cluster is used, which is available at https://search.infra.status.im/.
 
 For more information see our [article on the Search Cluster](https://github.com/status-im/infra-docs/blob/master/articles/search_cluster.md).

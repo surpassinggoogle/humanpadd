@@ -65,7 +65,7 @@ mermaid:
 
 elasticsearch:
   index: 'dev.status.im'
-  esHost: 'search.status.im'
+  esHost: 'search.infra.status.im'
   esPort: 443
 
 # ID for Fathom Analytics

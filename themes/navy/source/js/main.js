@@ -189,7 +189,7 @@ $(document).ready(function($) {
       var val = $(this).val();
       $('#search-results').empty();
       $.ajax({
-        url: 'https://search.status.im/status.im/_search?size=10&_source=title,url&&q=' + val
+        url: 'https://search.infra.status.im/status.im/_search?size=10&_source=title,url&&q=' + val
       })
         .done(function(results) {
           $.each(results.hits.hits, function(index, value) {

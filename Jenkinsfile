@@ -35,7 +35,7 @@ pipeline {
     stage('Index') {
       steps {
         withCredentials([usernamePassword(
-          credentialsId: 'search.status.im-auth',
+          credentialsId: 'search.infra.status.im-auth',
           usernameVariable: 'HEXO_ES_USER',
           passwordVariable: 'HEXO_ES_PASS'
         )]) {

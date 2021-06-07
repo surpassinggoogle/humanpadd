@@ -16,13 +16,6 @@
   </url>
   
   <url>
-    <loc>https://status.im/user_guides/pairing_devices.html</loc>
-    
-    <lastmod>2021-06-01T19:48:32.406Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/v1/index.html</loc>
     
     <lastmod>2021-06-01T19:48:32.406Z</lastmod>
@@ -44,7 +37,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/technical/report_a_bug.html</loc>
+    <loc>https://status.im/user_guides/pairing_devices.html</loc>
+    
+    <lastmod>2021-06-01T19:48:32.406Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/technical/statusphere.html</loc>
     
     <lastmod>2021-06-01T19:48:32.402Z</lastmod>
     
@@ -65,7 +65,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/technical/statusphere.html</loc>
+    <loc>https://status.im/technical/report_a_bug.html</loc>
     
     <lastmod>2021-06-01T19:48:32.402Z</lastmod>
     
@@ -86,6 +86,13 @@
   </url>
   
   <url>
+    <loc>https://status.im/user_guides/desktop_beta_install.html</loc>
+    
+    <lastmod>2021-06-01T19:48:32.402Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/user_guides/best_security_practices.html</loc>
     
     <lastmod>2021-06-01T19:48:32.402Z</lastmod>
@@ -93,9 +100,9 @@
   </url>
   
   <url>
-    <loc>https://status.im/user_guides/desktop_beta_install.html</loc>
+    <loc>https://status.im/technical/ens_usernames.html</loc>
     
-    <lastmod>2021-06-01T19:48:32.402Z</lastmod>
+    <lastmod>2021-06-01T19:48:32.398Z</lastmod>
     
   </url>
   
@@ -115,13 +122,6 @@
   
   <url>
     <loc>https://status.im/technical/embark.html</loc>
-    
-    <lastmod>2021-06-01T19:48:32.398Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/technical/ens_usernames.html</loc>
     
     <lastmod>2021-06-01T19:48:32.398Z</lastmod>
     
@@ -163,14 +163,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/technical/build_status/status_go.html</loc>
+    <loc>https://status.im/technical/build_status/status_react_quickstart.html</loc>
     
     <lastmod>2021-06-01T19:48:32.398Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/technical/build_status/status_react_quickstart.html</loc>
+    <loc>https://status.im/technical/build_status/status_go.html</loc>
     
     <lastmod>2021-06-01T19:48:32.398Z</lastmod>
     
@@ -191,14 +191,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/tbp/index.html</loc>
+    <loc>https://status.im/technical/FAQs.html</loc>
     
     <lastmod>2021-06-01T19:48:32.390Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/technical/FAQs.html</loc>
+    <loc>https://status.im/tbp/index.html</loc>
     
     <lastmod>2021-06-01T19:48:32.390Z</lastmod>
     
@@ -247,13 +247,6 @@
   </url>
   
   <url>
-    <loc>https://status.im/privacy-policy/index.html</loc>
-    
-    <lastmod>2021-06-01T19:48:32.386Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/private-messenger/index.html</loc>
     
     <lastmod>2021-06-01T19:48:32.386Z</lastmod>
@@ -261,7 +254,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/referral-program/index.html</loc>
+    <loc>https://status.im/privacy-policy/index.html</loc>
     
     <lastmod>2021-06-01T19:48:32.386Z</lastmod>
     
@@ -275,7 +268,21 @@
   </url>
   
   <url>
+    <loc>https://status.im/referral-program/index.html</loc>
+    
+    <lastmod>2021-06-01T19:48:32.386Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/research/dark_routing.html</loc>
+    
+    <lastmod>2021-06-01T19:48:32.386Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/research/extended_features.html</loc>
     
     <lastmod>2021-06-01T19:48:32.386Z</lastmod>
     
@@ -296,13 +303,6 @@
   </url>
   
   <url>
-    <loc>https://status.im/research/extended_features.html</loc>
-    
-    <lastmod>2021-06-01T19:48:32.386Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/research/ulc_in_details.html</loc>
     
     <lastmod>2021-06-01T19:48:32.386Z</lastmod>
@@ -310,14 +310,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/research/whisper_faqs.html</loc>
+    <loc>https://status.im/research/whisper_pss.html</loc>
     
     <lastmod>2021-06-01T19:48:32.386Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/research/whisper_pss.html</loc>
+    <loc>https://status.im/research/whisper_faqs.html</loc>
     
     <lastmod>2021-06-01T19:48:32.386Z</lastmod>
     
@@ -345,21 +345,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/get/index.html</loc>
-    
-    <lastmod>2021-06-01T19:48:32.382Z</lastmod>
-    
-  </url>
-  
-  <url>
     <loc>https://status.im/get-involved/index.html</loc>
-    
-    <lastmod>2021-06-01T19:48:32.382Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/keycard/index.html</loc>
     
     <lastmod>2021-06-01T19:48:32.382Z</lastmod>
     
@@ -373,14 +359,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/keycard-integration/index.html</loc>
+    <loc>https://status.im/keycard/index.html</loc>
     
     <lastmod>2021-06-01T19:48:32.382Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/nft-nyc/index.html</loc>
+    <loc>https://status.im/keycard-integration/index.html</loc>
     
     <lastmod>2021-06-01T19:48:32.382Z</lastmod>
     
@@ -394,6 +380,13 @@
   </url>
   
   <url>
+    <loc>https://status.im/nft-nyc/index.html</loc>
+    
+    <lastmod>2021-06-01T19:48:32.382Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/nightly/index.html</loc>
     
     <lastmod>2021-06-01T19:48:32.382Z</lastmod>
@@ -401,14 +394,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/our_team/applicant_privacy.html</loc>
+    <loc>https://status.im/our_team/applying_to_status.html</loc>
     
     <lastmod>2021-06-01T19:48:32.382Z</lastmod>
     
   </url>
   
   <url>
-    <loc>https://status.im/our_team/applying_to_status.html</loc>
+    <loc>https://status.im/our_team/applicant_privacy.html</loc>
     
     <lastmod>2021-06-01T19:48:32.382Z</lastmod>
     
@@ -429,7 +422,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/get/android/index.html</loc>
+    <loc>https://status.im/get/index.html</loc>
     
     <lastmod>2021-06-01T19:48:32.382Z</lastmod>
     
@@ -443,21 +436,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/get/windows/index.html</loc>
-    
-    <lastmod>2021-06-01T19:48:32.382Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/get/ios/index.html</loc>
-    
-    <lastmod>2021-06-01T19:48:32.382Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/get/linux/index.html</loc>
+    <loc>https://status.im/get/android/index.html</loc>
     
     <lastmod>2021-06-01T19:48:32.382Z</lastmod>
     
@@ -471,7 +450,14 @@
   </url>
   
   <url>
-    <loc>https://status.im/get-involved/community-groups/index.html</loc>
+    <loc>https://status.im/get/linux/index.html</loc>
+    
+    <lastmod>2021-06-01T19:48:32.382Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/get/windows/index.html</loc>
     
     <lastmod>2021-06-01T19:48:32.382Z</lastmod>
     
@@ -479,6 +465,20 @@
   
   <url>
     <loc>https://status.im/get-involved/developers/index.html</loc>
+    
+    <lastmod>2021-06-01T19:48:32.382Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/get-involved/community-groups/index.html</loc>
+    
+    <lastmod>2021-06-01T19:48:32.382Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/get/ios/index.html</loc>
     
     <lastmod>2021-06-01T19:48:32.382Z</lastmod>
     
@@ -562,6 +562,13 @@
   </url>
   
   <url>
+    <loc>https://status.im/developer_tools/register_dapps/register_dapps.html</loc>
+    
+    <lastmod>2021-06-01T19:48:32.326Z</lastmod>
+    
+  </url>
+  
+  <url>
     <loc>https://status.im/developer_tools/run_on_status/assets_guidelines.html</loc>
     
     <lastmod>2021-06-01T19:48:32.326Z</lastmod>
@@ -569,7 +576,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/developer_tools/register_dapps/register_dapps.html</loc>
+    <loc>https://status.im/developer_tools/run_on_status/index.html</loc>
     
     <lastmod>2021-06-01T19:48:32.326Z</lastmod>
     
@@ -590,7 +597,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/developer_tools/run_on_status/index.html</loc>
+    <loc>https://status.im/developer_tools/status_extras/index.html</loc>
     
     <lastmod>2021-06-01T19:48:32.326Z</lastmod>
     
@@ -598,13 +605,6 @@
   
   <url>
     <loc>https://status.im/developer_tools/run_on_status/mobile_dev_tools.html</loc>
-    
-    <lastmod>2021-06-01T19:48:32.326Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/developer_tools/status_extras/index.html</loc>
     
     <lastmod>2021-06-01T19:48:32.326Z</lastmod>
     
@@ -632,7 +632,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/account-generation/index.html</loc>
+    <loc>https://status.im/build_status/first_pr_guide.html</loc>
     
     <lastmod>2021-06-01T19:48:32.318Z</lastmod>
     
@@ -646,7 +646,7 @@
   </url>
   
   <url>
-    <loc>https://status.im/build_status/first_pr_guide.html</loc>
+    <loc>https://status.im/account-generation/index.html</loc>
     
     <lastmod>2021-06-01T19:48:32.318Z</lastmod>
     
@@ -661,13 +661,6 @@
   
   <url>
     <loc>https://status.im/criptomaniacos/index.html</loc>
-    
-    <lastmod>2021-06-01T19:48:32.318Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://status.im/developer_tools/add_you_own_network.html</loc>
     
     <lastmod>2021-06-01T19:48:32.318Z</lastmod>
     
@@ -689,6 +682,13 @@
   
   <url>
     <loc>https://status.im/developer_tools/debug.html</loc>
+    
+    <lastmod>2021-06-01T19:48:32.318Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://status.im/developer_tools/add_you_own_network.html</loc>
     
     <lastmod>2021-06-01T19:48:32.318Z</lastmod>
     

@@ -154,7 +154,7 @@ This quickstart guide uses AWS to access a cloud computing service but any cloud
 
 - `sudo apt install make`
 
-<img src="./status_node_quick_start/make.png" alt="make" style="max-width:800px;width:100%;margin:20px auto;padding:10px 0 10px 0;"/>
+<img src="./status_node_quick_start/make.png" alt="make" style="max-width:1000px;width:100%;margin:20px auto;padding:10px 0 10px 0;"/>
 
 <br/>
 
@@ -162,7 +162,7 @@ This quickstart guide uses AWS to access a cloud computing service but any cloud
 
 - `sudo apt-get install jq`
 
-<img src="./status_node_quick_start/jq.png" alt="jq" style="max-width:800px;width:100%;margin:20px auto;padding:10px 0 10px 0;"/>
+<img src="./status_node_quick_start/jq.png" alt="jq" style="max-width:1000px;width:100%;margin:20px auto;padding:10px 0 10px 0;"/>
 
 <br/>
 
@@ -172,7 +172,7 @@ This quickstart guide uses AWS to access a cloud computing service but any cloud
 
 2. `cd status-go/`
 
-<img src="./status_node_quick_start/clone-status-go.png" alt="clone-status-go" style="max-width:800px;width:100%;margin:20px auto;padding:10px 0 10px 0;"/>
+<img src="./status_node_quick_start/clone-status-go.png" alt="clone-status-go" style="max-width:1000px;width:100%;margin:20px auto;padding:10px 0 10px 0;"/>
 
 <br/>
 
@@ -180,7 +180,7 @@ This quickstart guide uses AWS to access a cloud computing service but any cloud
 
 - `make run-mailserver-docker`
 
-<img src="./status_node_quick_start/run-a-status-node.png" alt="run-a-status-node" style="max-width:800px;width:100%;margin:20px auto;padding:10px 0 10px 0;"/>
+<img src="./status_node_quick_start/run-a-status-node.png" alt="run-a-status-node" style="max-width:1000px;width:100%;margin:20px auto;padding:10px 0 10px 0;"/>
 
 <br/>
 
@@ -196,7 +196,7 @@ If there are peers connected,
 will return IP addresses
 
 
-<img src="./status_node_quick_start/health-check.png" alt="health-check" style="max-width:800px;width:100%;margin:20px auto;padding:10px 0 10px 0;"/>
+<img src="./status_node_quick_start/health-check.png" alt="health-check" style="max-width:1000px;width:100%;margin:20px auto;padding:10px 0 10px 0;"/>
 
 <br/>
 
@@ -204,7 +204,7 @@ will return IP addresses
 
 - `curl -s localhost:9090/metrics | grep '^waku_envelopes_received_total'`
 
-<img src="./status_node_quick_start/waku-envelopes.png" alt="waku-envelopes" style="max-width:800px;width:100%;margin:20px auto;padding:10px 0 10px 0;"/>
+<img src="./status_node_quick_start/waku-envelopes.png" alt="waku-envelopes" style="max-width:1000px;width:100%;margin:20px auto;padding:10px 0 10px 0;"/>
 
 <br/>
 

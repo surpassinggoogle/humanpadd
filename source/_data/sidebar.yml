@@ -9,8 +9,8 @@ docs:
       path: contributor_workflow.html
     - title: Running A Status Node
       path: run_status_node.html
-    - title: Status Node QuickStart
-      path: status_node_quick_start.html
+    - title: Status Node Step-by-Step
+      path: status_node_step_by_step.html
     - title: Github Labels
       path: org_github_labels.html 
     - title: Perfect Forward Security 
@@ -22,7 +22,13 @@ docs:
         - title: Build Status-Go
           path: status_go.html
         - title: Status-React Quick Start
-          path: status_react_quickstart.html     
+          path: status_react_quickstart.html
+
+    - title: Other Guides
+      path: others
+      children:
+        - title: Deploy an EC2 Instance
+          path: deploy_ec2_instance.html
 
   - title: DApp Integration Center
     path: developer_tools

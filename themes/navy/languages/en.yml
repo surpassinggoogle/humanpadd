@@ -1084,7 +1084,7 @@ site:
     privacy-policy:
       title: "Privacy Policy"
       description: "Status Research & Development GmbH, Baarerstrasse 10, Zug, Switzerland"
-    terms-of-service: "Terms of Service"
+    terms-of-use: "Terms of Use"
     messari: "Messari Transparency Verified"
   link:
     get-status: "Get Status"

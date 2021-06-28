@@ -1,12 +1,12 @@
 ---
-id: terms-of-service
-title: Status App Terms of Service
+id: terms-of-use
+title: Status App Terms of use
 description: These are the general terms and conditions of the Status app provided by Status Research & Development GmbH.
 ---
 
-<img src="/terms-of-service/tos-hero.png" alt="hero" style="width:300px;margin:20px auto;padding-right:15px;"/>
+<img src="tos-hero.png" alt="hero" style="width:300px;margin:20px auto;padding-right:15px;"/>
 
-## Status App Terms of Service
+## Status App Terms of Use
 
 <br/>
 <br/>
@@ -15,7 +15,7 @@ Status strives to be a secure communication tool that upholds human rights. Desi
 
 Status provides a secure messaging app, crypto wallet, and Web3 browser, built with state of the art technology, integrated into one powerful super app. These and any other Status services available through the application are simply called the Status app.
 
-These Terms of Service are a contract between you and Status. You agree to these terms by installing or using the Status app on any device. If you don’t agree to these terms, don’t use the Status app.
+These Terms of Use are a contract between you and Status. You agree to these terms by installing or using the Status app on any device. If you don’t agree to these terms, don’t use the Status app.
 
 ### Who we are
 
@@ -23,7 +23,7 @@ The [Status Network](https://statusnetwork.com/) is an open set of projects buil
 
 Whenever “Status” or “we” is used in these terms, we’re referring to Status Research & Development GmbH, the Swiss company that distributes the Status app. Our contact information can be found on our [website](https://status.im/).
 
-<img src="/terms-of-service/tos-who-we-are.png" alt="Who we are" style="width:300px;margin:50px auto;"/>
+<img src="tos-who-we-are.png" alt="Who we are" style="width:300px;margin:50px auto;"/>
 
 ### Our Principles drive our decisions
 
@@ -53,7 +53,7 @@ All private messages sent in the Status app are encrypted end-to-end by default,
 
 Learn more about how seriously we protect your data by reading our [Privacy Policy](https://status.im/privacy-policy/) and [Security Protocol](https://status.im/security/). 
 
-<img src="/terms-of-service/tos-privacy.png" alt="We care about your privacy" style="width:300px;margin:50px auto;"/>
+<img src="tos-privacy.png" alt="We care about your privacy" style="width:300px;margin:50px auto;"/>
 
 ### You’re responsible for your activities
 
@@ -81,7 +81,7 @@ While using the Status app, you may view content that’s offensive, indecent, o
 
 For an explanation about how Status has no means of removing users or user generated content from the Status app, see the section on decentralization and the Waku protocol below.
 
-<img src="/terms-of-service/tos-censorship.png" alt="Our view on censorship" style="width:300px;margin:50px auto;"/>
+<img src="tos-censorship.png" alt="Our view on censorship" style="width:300px;margin:50px auto;"/>
 
 ### Please limit certain uses
 
@@ -111,7 +111,7 @@ From time to time, we provide updates to the Status app in order to enable new f
 
 Certain services on the Status app may allow you to access, use, or interact with third party products and services, such as websites, blockchain wallet transactions, apps and DApps, support services, and group chat community spaces. When you use any third party service, their terms and conditions, including privacy policies, govern your use of those services, and Status shall not be liable for your use of or activities on or with any third party service.
 
-<img src="/terms-of-service/tos-third-party-providers.png" alt="Sometimes we use third party providers" style="width:300px;margin:50px auto;"/>
+<img src="tos-third-party-providers.png" alt="Sometimes we use third party providers" style="width:300px;margin:50px auto;"/>
 
 ### Utility of the Status Network Token
 
@@ -151,7 +151,7 @@ You acknowledge and understand that cryptographic and cryptoeconomic systems are
 
 You release Status and its representatives from all liability related to any claim, cause of action, controversy, dispute, loss, or damages, known or unknown, related to, arising from, or in any way connected with: (i) user error, such as forgotten passwords, incorrectly constructed transactions, or mistyped virtual currency addresses; (ii) delays, server failure, or data loss; (iii) unauthorized access to the Status app, your account, or your private data; (iv) bugs or other errors in the Status app software and code or any Status system; (v) any unauthorized third party activities, including without limitation the use of viruses, phishing, brute forcing, or other means of attack against the Status app or Status systems; (vi) risks associated with cryptographic and cryptoeconomic systems, including use or utility of SNT or other tokens; (vii) fluctuations in transaction costs; (viii) loss of wallet assets; and (ix) your use of or activities on any third party service.
 
-<img src="/terms-of-service/tos-read-closly.png" alt="Releases you should read closely" style="width:300px;margin:50px auto;"/>
+<img src="tos-read-closly.png" alt="Releases you should read closely" style="width:300px;margin:50px auto;"/>
 
 ### Status’ liability is limited
 
@@ -169,7 +169,7 @@ Status Research & Development GmbH is a Swiss company that conducts global marke
 
 Whenever used in these terms, “dispute” has the broadest meaning enforceable by law and includes any claim you make against or controversy you may have with Status and its representatives.
 
-<img src="/terms-of-service/tos-disputes.png" alt="How disputes are resolved" style="width:300px;margin:50px auto;"/>
+<img src="tos-disputes.png" alt="How disputes are resolved" style="width:300px;margin:50px auto;"/>
 
 ### Please read this section carefully!
 

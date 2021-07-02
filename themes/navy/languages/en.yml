@@ -490,6 +490,7 @@ site:
       content-13:
         title: "Bug Bounty Program"
         description: "If you are a security researcher or developer and want to report a vulnerability, please contact %s regarding the Status Bug Bounty Program. We also have a campaign with HackerOne, a bug bounty program that incentivizes hackers to look at projects. We're actively ramping up our private campaign, and will open it to public disclosures soon! For more information on the Bug Bounty Program, please contact %s."
+        description-2: "Join our hackerone bug bounty here"
     protect-yourself:
       title: "Protect Yourself"
       description: "Status is built with state of the art technology to ensure the product is a secure as possible. When it comes to navigating Web3, you are in control. See our list of security best practices and take control."
@@ -1063,6 +1064,7 @@ site:
     status:
       title: "Status"
       jobs: "Jobs"
+      bug-bounty: "Bug bounty"
       white-paper: "White Paper"
       media-kit: "Media Kit"
       analytics: "Analytics"

@@ -570,15 +570,15 @@
 		    </div>
 		    <div class="col-span-12 md:col-span-7 xl:col-span-8">
   				<div class="custom-article js-editor-content">
-  					<h1 id="Whisper-amp-QR-Codes" class="article-heading"><a href="#Whisper-amp-QR-Codes" class="headerlink" title="Whisper &amp; QR Codes"></a>Whisper &amp; QR Codes<a class="article-anchor" href="#Whisper-amp-QR-Codes" aria-hidden="true"></a></h1><h2 id="Introducing-the-Status-DApp-API" class="article-heading"><a href="#Introducing-the-Status-DApp-API" class="headerlink" title="Introducing the Status DApp API"></a>Introducing the Status DApp API<a class="article-anchor" href="#Introducing-the-Status-DApp-API" aria-hidden="true"></a></h2><p>Status presents an API you can use to enhance your DApp with ease. </p>
-<p>The Status DApp API will expand over time. Let us look at some features you might want to use right away. </p>
-<h2 id="Detecting-Status" class="article-heading"><a href="#Detecting-Status" class="headerlink" title="Detecting Status"></a>Detecting Status<a class="article-anchor" href="#Detecting-Status" aria-hidden="true"></a></h2><p>Your DApp will need to know if it is running in Status so it can implement extended functionality conditionally. </p>
-<pre><code class="javascript">if(window.ethereum.isStatus {
+  					<h1 id="Whisper-amp-QR-Codes" class="article-heading"><a href="#Whisper-amp-QR-Codes" class="headerlink" title="Whisper &amp; QR Codes"></a>Whisper &amp; QR Codes<a class="article-anchor" href="#Whisper-amp-QR-Codes" aria-hidden="true"></a></h1><h2 id="Introducing-the-Status-DApp-API" class="article-heading"><a href="#Introducing-the-Status-DApp-API" class="headerlink" title="Introducing the Status DApp API"></a>Introducing the Status DApp API<a class="article-anchor" href="#Introducing-the-Status-DApp-API" aria-hidden="true"></a></h2><p>Status presents an API you can use to enhance your DApp with ease.</p>
+<p>The Status DApp API will expand over time. Let us look at some features you might want to use right away.</p>
+<h2 id="Detecting-Status" class="article-heading"><a href="#Detecting-Status" class="headerlink" title="Detecting Status"></a>Detecting Status<a class="article-anchor" href="#Detecting-Status" aria-hidden="true"></a></h2><p>Your DApp will need to know if it is running in Status so it can implement extended functionality conditionally.</p>
+<pre><code class="javascript">if (window.ethereum.isStatus) {
   // we are running in Status
 }</code></pre>
 <p>Simple!</p>
 <p>That means we can rely upon the Status DApp API.</p>
-<h2 id="Whisper-Contact" class="article-heading"><a href="#Whisper-Contact" class="headerlink" title="Whisper Contact"></a>Whisper Contact<a class="article-anchor" href="#Whisper-Contact" aria-hidden="true"></a></h2><p>You can get/inspect the Contact ID to use with Whisper, the secure, distributed instant message protocol. </p>
+<h2 id="Whisper-Contact" class="article-heading"><a href="#Whisper-Contact" class="headerlink" title="Whisper Contact"></a>Whisper Contact<a class="article-anchor" href="#Whisper-Contact" aria-hidden="true"></a></h2><p>You can get/inspect the Contact ID to use with Whisper, the secure, distributed instant message protocol.</p>
 <pre><code class="javascript">window.ethereum.status
  .getContactCode()
  .then(data =&gt; {
@@ -587,8 +587,8 @@
  .catch(err =&gt; {
    console.log(&#39;Error:&#39;, err)
  })</code></pre>
-<p>In this example, <code>data</code> is the user’s contact code. </p>
-<h2 id="ERC-925-QR-Codes" class="article-heading"><a href="#ERC-925-QR-Codes" class="headerlink" title="ERC-925 (QR Codes)"></a>ERC-925 (QR Codes)<a class="article-anchor" href="#ERC-925-QR-Codes" aria-hidden="true"></a></h2><p>ERC-925 (<a href="https://github.com/ethereum/EIPs/issues/945" target="_blank" rel="noopener">https://github.com/ethereum/EIPs/issues/945</a>) allows a DApp to trigger a generic QR Code scanner with ease, and Status supports this natively. </p>
+<p>In this example, <code>data</code> is the user’s contact code.</p>
+<h2 id="ERC-925-QR-Codes" class="article-heading"><a href="#ERC-925-QR-Codes" class="headerlink" title="ERC-925 (QR Codes)"></a>ERC-925 (QR Codes)<a class="article-anchor" href="#ERC-925-QR-Codes" aria-hidden="true"></a></h2><p>ERC-925 (<a href="https://github.com/ethereum/EIPs/issues/945" target="_blank" rel="noopener">https://github.com/ethereum/EIPs/issues/945</a>) allows a DApp to trigger a generic QR Code scanner with ease, and Status supports this natively.</p>
 <pre><code class="javascript">window.ethereum
  .scanQRCode()
  .then(data =&gt; {
@@ -597,17 +597,17 @@
  .catch(err =&gt; {
    console.log(&#39;Error:&#39;, err)
  })</code></pre>
-<p>In this example, <code>data</code> is the information encoded in the QR Code presented to the users’ camera and the <code>catch</code> will handle the case that the user cancels the scan before it finds a QR Code. </p>
+<p>In this example, <code>data</code> is the information encoded in the QR Code presented to the users’ camera and the <code>catch</code> will handle the case that the user cancels the scan before it finds a QR Code.</p>
 <p>DApps are not required to implement these features in order to appear in the DApp store but you may be able to improve your user experience by implementing them when your DApp detects Status.</p>
 <h2 id="Links" class="article-heading"><a href="#Links" class="headerlink" title="Links"></a>Links<a class="article-anchor" href="#Links" aria-hidden="true"></a></h2><ul>
 <li>Detecting Status: <a href="https://status.im/developer_tools/detecting_status.html">https://status.im/developer_tools/detecting_status.html</a></li>
-<li>Status DApp API Reference: <a href="https://status.im/developer_tools/status_web_api.html">https://status.im/developer_tools/status_web_api.html</a> </li>
+<li>Status DApp API Reference: <a href="https://status.im/developer_tools/status_web_api.html">https://status.im/developer_tools/status_web_api.html</a></li>
 <li>ERC-925: <a href="https://github.com/ethereum/EIPs/issues/945" target="_blank" rel="noopener">https://github.com/ethereum/EIPs/issues/945</a></li>
 </ul>
 
   				</div>
   				<div class="mt-32 border-t border-gray-200 pt-8 text-gray-500 text-center text-lg font-special">
-  					Last update: 2021-06-01
+  					Last update: 2021-07-10
   					
   				</div>
 				</div>

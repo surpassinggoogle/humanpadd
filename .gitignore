@@ -5,6 +5,6 @@ node_modules/
 *.map
 db.json
 .deploy*/
-
+public/
 package-lock.json
 npm-shrinkwrap.json

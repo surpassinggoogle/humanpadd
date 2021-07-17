@@ -1,0 +1,739 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+  
+  <url>
+    <loc>https://dev.status.im/work/template.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.688Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/work/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.687Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/web-three-browser/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.686Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/v1/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.685Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/user_guides/pairing_devices.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.685Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/user_guides/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.684Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/user_guides/desktop_beta_install.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.681Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/user_guides/best_security_practices.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.680Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/terms-of-use/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.674Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/technical/statusphere.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.672Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/technical/testing.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.672Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/technical/tribute_to_talk.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.672Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/technical/status_node_step_by_step.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.645Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/technical/report_a_bug.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.644Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/technical/run_status_node.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.644Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/technical/pfs.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.643Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/technical/others/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.643Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/technical/others/deploy_ec2_instance.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.642Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/technical/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.586Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/technical/org_github_labels.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.586Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/technical/index-oos.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.585Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/technical/ens_usernames.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.579Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/technical/contributor_workflow.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.578Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/technical/embark.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.578Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/technical/contributor_guide.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.577Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/technical/build_status/status_react_quickstart.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.577Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/technical/build_status/status_go.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.576Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/technical/build_status/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.575Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/technical/FAQs.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.564Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/tbp/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.563Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/security/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.562Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/snt-utility/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.562Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/secure-wallet/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.561Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/research/whisper_pss.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.560Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/research/ulc_in_details.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.559Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/research/whisper_faqs.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.559Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/research/secure_messaging_compendium.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.557Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/research/extended_features.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.556Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/research/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.556Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/research/dark_routing.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.555Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/referral-program/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.554Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/referral-program/terms-and-conditions.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.554Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/private-messenger/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.553Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/privacy-policy/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.552Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/partner-template/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.548Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/our_team/the_future.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.547Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/our_team/perks_benefits.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.547Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/our_team/our_principles.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.546Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/our_team/life_status.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.546Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/our_team/jobs.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.545Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/our_team/applying_to_status.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.544Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/our_team/faqs.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.544Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/our_team/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.544Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/our_team/applicant_privacy.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.543Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/nightly/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.542Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/nft-nyc/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.540Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/mobile-release-schedule/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.540Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/keycard/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.539Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/keycard-integration/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.538Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/join/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.538Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.537Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/get/windows/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.537Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/get/linux/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.536Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/get/macos/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.536Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/get/ios/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.535Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/get/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.534Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/get/apk/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.534Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/get/android/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.533Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/get-involved/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.532Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/get-involved/educators/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.532Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/get-involved/developers/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.531Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/get-involved/community-groups/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.530Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/fiddle/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.476Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/faq/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.475Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/features/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.475Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/docs/FAQs.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.474Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/docs/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.474Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/troubleshooting_dapps.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.473Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/why_status.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.473Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/status_web_api.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.472Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/status_extras/status_dapp_api.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.472Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/status_extras/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.471Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/run_on_status/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.470Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/run_on_status/mobile_dev_tools.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.470Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/run_on_status/eip-1102.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.469Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/run_on_status/dapp_store_requirements.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.467Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/run_on_status/assets_guidelines.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.466Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/register_dapps/register_dapps.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.465Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/register_dapps/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.463Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.462Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/intro_extensions.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.462Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/http_debugging.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.442Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/detecting_status.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.441Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/enable_chat.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.441Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/debug.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.440Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/add_your_dapp.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.440Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/access_eth_provider.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.439Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/developer_tools/add_you_own_network.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.439Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/criptomaniacos/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.438Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/build_status/first_pr_guide.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.437Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/build_status/makefile_tour.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.437Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/audits/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.436Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/account-generation/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.435Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/news/2018/10/25/nimbus/</loc>
+    
+    <lastmod>2021-07-17T09:52:30.434Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://dev.status.im/about/index.html</loc>
+    
+    <lastmod>2021-07-17T09:52:30.434Z</lastmod>
+    
+  </url>
+  
+</urlset>
